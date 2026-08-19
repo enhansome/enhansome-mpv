@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-11T07:52:03Z",
                 "owner": "smplayer-dev",
                 "repo": "smplayer",
-                "stars": 1041
+                "stars": 1042
               }
             },
             {
@@ -89,7 +89,7 @@
                 "archived": false,
                 "id": 32478280,
                 "language": "Pascal",
-                "last_commit": "2026-08-18T11:51:52Z",
+                "last_commit": "2026-08-19T14:27:42Z",
                 "owner": "varianus",
                 "repo": "ovoplayer",
                 "stars": 66
@@ -114,7 +114,7 @@
                 "last_commit": "2026-02-09T13:12:05Z",
                 "owner": "mpvnet-player",
                 "repo": "mpv.net",
-                "stars": 5334
+                "stars": 5333
               }
             },
             {
@@ -260,7 +260,7 @@
                 "archived": false,
                 "id": 56722299,
                 "language": "Kotlin",
-                "last_commit": "2026-08-18T19:51:17Z",
+                "last_commit": "2026-08-19T14:44:29Z",
                 "owner": "mpv-android",
                 "repo": "mpv-android",
                 "stars": 3477
@@ -304,7 +304,7 @@
             "last_commit": "2026-08-14T00:43:34Z",
             "owner": "shinchiro",
             "repo": "mpv-winbuild-cmake",
-            "stars": 1712
+            "stars": 1713
           }
         },
         {
@@ -385,7 +385,7 @@
             "last_commit": "2026-08-17T17:57:13Z",
             "owner": "mpv-player",
             "repo": "mpv",
-            "stars": 36589
+            "stars": 36594
           }
         },
         {
@@ -400,7 +400,7 @@
             "last_commit": "2026-08-17T17:57:13Z",
             "owner": "mpv-player",
             "repo": "mpv",
-            "stars": 36589
+            "stars": 36594
           }
         }
       ],
@@ -423,7 +423,7 @@
                 "last_commit": "2026-08-17T17:57:13Z",
                 "owner": "mpv-player",
                 "repo": "mpv",
-                "stars": 36589
+                "stars": 36594
               }
             },
             {
@@ -610,7 +610,7 @@
                 "last_commit": "2026-08-17T17:57:13Z",
                 "owner": "mpv-player",
                 "repo": "mpv",
-                "stars": 36589
+                "stars": 36594
               }
             },
             {
@@ -625,7 +625,7 @@
                 "last_commit": "2026-08-17T17:57:13Z",
                 "owner": "mpv-player",
                 "repo": "mpv",
-                "stars": 36589
+                "stars": 36594
               }
             },
             {
@@ -640,7 +640,7 @@
                 "last_commit": "2026-08-17T17:57:13Z",
                 "owner": "mpv-player",
                 "repo": "mpv",
-                "stars": 36589
+                "stars": 36594
               }
             },
             {
@@ -670,7 +670,7 @@
                 "last_commit": "2026-06-04T18:35:22Z",
                 "owner": "Samillion",
                 "repo": "ModernZ",
-                "stars": 1165
+                "stars": 1166
               }
             },
             {
@@ -1030,7 +1030,7 @@
                 "last_commit": "2024-11-01T20:31:51Z",
                 "owner": "po5",
                 "repo": "memo",
-                "stars": 119
+                "stars": 120
               }
             },
             {
@@ -2122,21 +2122,6 @@
             },
             {
               "node_type": "item",
-              "title": "open-file-dialog",
-              "description": "Launch a Windows open file dialog.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 53491951,
-                "language": "Lua",
-                "last_commit": "2020-04-15T07:32:47Z",
-                "owner": "rossy",
-                "repo": "mpv-open-file-dialog",
-                "stars": 45
-              }
-            },
-            {
-              "node_type": "item",
               "title": "Serkio Tagger",
               "description": "Annotate videos with tags while you watch.",
               "children": [],
@@ -2148,6 +2133,21 @@
                 "owner": "SerkioTeam",
                 "repo": "Tagger",
                 "stars": 45
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "open-file-dialog",
+              "description": "Launch a Windows open file dialog.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 53491951,
+                "language": "Lua",
+                "last_commit": "2020-04-15T07:32:47Z",
+                "owner": "rossy",
+                "repo": "mpv-open-file-dialog",
+                "stars": 44
               }
             },
             {
@@ -2349,7 +2349,7 @@
                 "last_commit": "2026-06-04T18:35:22Z",
                 "owner": "Samillion",
                 "repo": "ModernZ",
-                "stars": 1165
+                "stars": 1166
               }
             },
             {
@@ -3914,7 +3914,7 @@
                 "last_commit": "2026-08-17T17:57:13Z",
                 "owner": "mpv-player",
                 "repo": "mpv",
-                "stars": 36589
+                "stars": 36594
               }
             },
             {
@@ -4558,7 +4558,7 @@
                 "last_commit": "2026-08-17T17:57:13Z",
                 "owner": "mpv-player",
                 "repo": "mpv",
-                "stars": 36589
+                "stars": 36594
               }
             },
             {
@@ -4573,7 +4573,7 @@
                 "last_commit": "2026-08-17T17:57:13Z",
                 "owner": "mpv-player",
                 "repo": "mpv",
-                "stars": 36589
+                "stars": 36594
               }
             },
             {
@@ -4588,7 +4588,7 @@
                 "last_commit": "2026-08-17T17:57:13Z",
                 "owner": "mpv-player",
                 "repo": "mpv",
-                "stars": 36589
+                "stars": 36594
               }
             },
             {
@@ -5090,7 +5090,7 @@
                 "last_commit": "2026-08-12T15:02:41Z",
                 "owner": "po5",
                 "repo": "thumbfast",
-                "stars": 1662
+                "stars": 1663
               }
             },
             {
@@ -5905,7 +5905,7 @@
                 "last_commit": "2026-08-17T17:57:13Z",
                 "owner": "mpv-player",
                 "repo": "mpv",
-                "stars": 36589
+                "stars": 36594
               }
             },
             {
@@ -5920,7 +5920,7 @@
                 "last_commit": "2026-08-17T17:57:13Z",
                 "owner": "mpv-player",
                 "repo": "mpv",
-                "stars": 36589
+                "stars": 36594
               }
             },
             {
@@ -5935,7 +5935,7 @@
                 "last_commit": "2026-08-17T17:57:13Z",
                 "owner": "mpv-player",
                 "repo": "mpv",
-                "stars": 36589
+                "stars": 36594
               }
             },
             {
@@ -6834,10 +6834,10 @@
             "archived": false,
             "id": 233280265,
             "language": "Python",
-            "last_commit": "2026-08-19T10:03:28Z",
+            "last_commit": "2026-08-19T16:15:44Z",
             "owner": "jellyfin",
             "repo": "jellyfin-mpv-shim",
-            "stars": 2320
+            "stars": 2321
           }
         },
         {
@@ -6993,7 +6993,7 @@
             "last_commit": "2026-08-17T07:10:46Z",
             "owner": "dyphire",
             "repo": "mpv-config",
-            "stars": 1844
+            "stars": 1845
           }
         },
         {
@@ -7200,7 +7200,7 @@
             "last_commit": "2024-08-17T12:09:12Z",
             "owner": "bloc97",
             "repo": "Anime4K",
-            "stars": 21266
+            "stars": 21268
           }
         },
         {
@@ -7578,7 +7578,7 @@
             "last_commit": "2026-08-17T17:57:13Z",
             "owner": "mpv-player",
             "repo": "mpv",
-            "stars": 36589
+            "stars": 36594
           }
         },
         {
@@ -7608,7 +7608,7 @@
             "last_commit": "2026-08-18T12:14:55Z",
             "owner": "Flow-Launcher",
             "repo": "Flow.Launcher",
-            "stars": 15388
+            "stars": 15389
           }
         },
         {
@@ -7623,7 +7623,7 @@
             "last_commit": "2026-07-25T07:16:30Z",
             "owner": "ikas-mc",
             "repo": "ContextMenuForWindows11",
-            "stars": 2864
+            "stars": 2863
           }
         },
         {
@@ -7770,7 +7770,7 @@
             "last_commit": "2026-08-17T17:57:13Z",
             "owner": "mpv-player",
             "repo": "mpv",
-            "stars": 36589
+            "stars": 36594
           }
         },
         {
@@ -7785,7 +7785,7 @@
             "last_commit": "2026-02-09T13:12:05Z",
             "owner": "mpvnet-player",
             "repo": "mpv.net",
-            "stars": 5334
+            "stars": 5333
           }
         },
         {
@@ -8060,7 +8060,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:45:02.163Z",
+    "last_updated": "2026-08-19T17:01:23.622Z",
     "original_repository": "stax76/awesome-mpv",
     "original_repository_id": 513573841,
     "original_repository_sha": "53c6c186f55b380924ce4fc9f6035a12267f00c0",
