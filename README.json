@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-11T07:52:03Z",
                 "owner": "smplayer-dev",
                 "repo": "smplayer",
-                "stars": 1042
+                "stars": 1041
               }
             },
             {
@@ -114,7 +114,7 @@
                 "last_commit": "2026-02-09T13:12:05Z",
                 "owner": "mpvnet-player",
                 "repo": "mpv.net",
-                "stars": 5338
+                "stars": 5341
               }
             },
             {
@@ -129,7 +129,7 @@
                 "last_commit": "2026-07-12T05:04:14Z",
                 "owner": "422658476",
                 "repo": "MPV-EASY-Player",
-                "stars": 1422
+                "stars": 1423
               }
             },
             {
@@ -144,7 +144,7 @@
                 "last_commit": "2026-08-21T11:53:02Z",
                 "owner": "mpc-qt",
                 "repo": "mpc-qt",
-                "stars": 1061
+                "stars": 1062
               }
             },
             {
@@ -223,7 +223,7 @@
                 "archived": false,
                 "id": 85048227,
                 "language": "C++",
-                "last_commit": "2026-08-21T06:31:25Z",
+                "last_commit": "2026-08-22T10:22:03Z",
                 "owner": "linuxdeepin",
                 "repo": "deepin-movie-reborn",
                 "stars": 88
@@ -260,7 +260,7 @@
                 "archived": false,
                 "id": 56722299,
                 "language": "Kotlin",
-                "last_commit": "2026-08-19T14:44:29Z",
+                "last_commit": "2026-08-22T07:25:49Z",
                 "owner": "mpv-android",
                 "repo": "mpv-android",
                 "stars": 3484
@@ -316,7 +316,7 @@
             "archived": false,
             "id": 412382551,
             "language": "Shell",
-            "last_commit": "2026-08-21T12:20:41Z",
+            "last_commit": "2026-08-22T12:42:50Z",
             "owner": "zhongfly",
             "repo": "mpv-winbuild",
             "stars": 877
@@ -385,7 +385,7 @@
             "last_commit": "2026-08-21T11:36:49Z",
             "owner": "mpv-player",
             "repo": "mpv",
-            "stars": 36614
+            "stars": 36630
           }
         },
         {
@@ -400,7 +400,7 @@
             "last_commit": "2026-08-21T11:36:49Z",
             "owner": "mpv-player",
             "repo": "mpv",
-            "stars": 36614
+            "stars": 36630
           }
         }
       ],
@@ -423,7 +423,7 @@
                 "last_commit": "2026-08-21T11:36:49Z",
                 "owner": "mpv-player",
                 "repo": "mpv",
-                "stars": 36614
+                "stars": 36630
               }
             },
             {
@@ -438,7 +438,7 @@
                 "last_commit": "2026-08-03T15:49:09Z",
                 "owner": "tomasklaen",
                 "repo": "uosc",
-                "stars": 3325
+                "stars": 3328
               }
             },
             {
@@ -525,7 +525,7 @@
                 "archived": false,
                 "id": 480754281,
                 "language": "Shell",
-                "last_commit": "2026-08-20T04:59:28Z",
+                "last_commit": "2026-08-22T15:52:12Z",
                 "owner": "gmt4",
                 "repo": "mpvc",
                 "stars": 156
@@ -543,7 +543,7 @@
                 "last_commit": "2026-02-24T21:06:25Z",
                 "owner": "Seme4eg",
                 "repo": "mpv-scripts",
-                "stars": 73
+                "stars": 74
               }
             },
             {
@@ -610,7 +610,7 @@
                 "last_commit": "2026-08-21T11:36:49Z",
                 "owner": "mpv-player",
                 "repo": "mpv",
-                "stars": 36614
+                "stars": 36630
               }
             },
             {
@@ -625,7 +625,7 @@
                 "last_commit": "2026-08-21T11:36:49Z",
                 "owner": "mpv-player",
                 "repo": "mpv",
-                "stars": 36614
+                "stars": 36630
               }
             },
             {
@@ -640,7 +640,7 @@
                 "last_commit": "2026-08-21T11:36:49Z",
                 "owner": "mpv-player",
                 "repo": "mpv",
-                "stars": 36614
+                "stars": 36630
               }
             },
             {
@@ -655,7 +655,7 @@
                 "last_commit": "2026-07-12T05:04:14Z",
                 "owner": "422658476",
                 "repo": "MPV-EASY-Player",
-                "stars": 1422
+                "stars": 1423
               }
             },
             {
@@ -670,7 +670,7 @@
                 "last_commit": "2026-06-04T18:35:22Z",
                 "owner": "Samillion",
                 "repo": "ModernZ",
-                "stars": 1173
+                "stars": 1178
               }
             },
             {
@@ -955,7 +955,7 @@
                 "last_commit": "2025-02-07T17:28:02Z",
                 "owner": "4e6",
                 "repo": "mpv-reload",
-                "stars": 153
+                "stars": 154
               }
             },
             {
@@ -1135,7 +1135,7 @@
                 "last_commit": "2026-02-24T21:06:25Z",
                 "owner": "Seme4eg",
                 "repo": "mpv-scripts",
-                "stars": 73
+                "stars": 74
               }
             },
             {
@@ -2304,7 +2304,7 @@
                 "last_commit": "2026-08-03T15:49:09Z",
                 "owner": "tomasklaen",
                 "repo": "uosc",
-                "stars": 3325
+                "stars": 3328
               }
             },
             {
@@ -2319,7 +2319,7 @@
                 "last_commit": "2026-07-12T05:04:14Z",
                 "owner": "422658476",
                 "repo": "MPV-EASY-Player",
-                "stars": 1422
+                "stars": 1423
               }
             },
             {
@@ -2334,7 +2334,7 @@
                 "last_commit": "2026-07-12T05:04:14Z",
                 "owner": "422658476",
                 "repo": "MPV-EASY-Player",
-                "stars": 1422
+                "stars": 1423
               }
             },
             {
@@ -2349,7 +2349,7 @@
                 "last_commit": "2026-06-04T18:35:22Z",
                 "owner": "Samillion",
                 "repo": "ModernZ",
-                "stars": 1173
+                "stars": 1178
               }
             },
             {
@@ -2364,7 +2364,7 @@
                 "last_commit": "2026-02-04T14:58:29Z",
                 "owner": "cyl0",
                 "repo": "ModernX",
-                "stars": 751
+                "stars": 753
               }
             },
             {
@@ -2469,7 +2469,7 @@
                 "last_commit": "2024-08-10T16:55:50Z",
                 "owner": "1-minute-to-midnight",
                 "repo": "mpv-modern-x-compact",
-                "stars": 97
+                "stars": 98
               }
             },
             {
@@ -2641,7 +2641,7 @@
                 "last_commit": "2026-01-11T02:46:29Z",
                 "owner": "CogentRedTester",
                 "repo": "mpv-scripts",
-                "stars": 299
+                "stars": 300
               }
             },
             {
@@ -2746,7 +2746,7 @@
                 "last_commit": "2026-02-24T21:06:25Z",
                 "owner": "Seme4eg",
                 "repo": "mpv-scripts",
-                "stars": 73
+                "stars": 74
               }
             },
             {
@@ -3233,7 +3233,7 @@
                 "last_commit": "2026-08-01T20:03:51Z",
                 "owner": "Hill-98",
                 "repo": "mpv-config",
-                "stars": 83
+                "stars": 84
               }
             },
             {
@@ -3914,7 +3914,7 @@
                 "last_commit": "2026-08-21T11:36:49Z",
                 "owner": "mpv-player",
                 "repo": "mpv",
-                "stars": 36614
+                "stars": 36630
               }
             },
             {
@@ -4131,7 +4131,7 @@
                 "last_commit": "2026-01-11T02:46:29Z",
                 "owner": "CogentRedTester",
                 "repo": "mpv-scripts",
-                "stars": 299
+                "stars": 300
               }
             },
             {
@@ -4466,6 +4466,21 @@
             },
             {
               "node_type": "item",
+              "title": "torrserver",
+              "description": "Allows streaming torrents using TorrServer. Support magnet links and .torrent files",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 726467626,
+                "language": "Lua",
+                "last_commit": "2024-02-05T15:57:00Z",
+                "owner": "kritma",
+                "repo": "mpv-torrserver",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
               "title": "last.fm scrobbler",
               "description": "Sends the information about playing tracks to last.fm, see http://www.last.fm/help/faq?category=99 for more info.",
               "children": [],
@@ -4477,21 +4492,6 @@
                 "owner": "MugoSquero",
                 "repo": "mpv_scrobbler",
                 "stars": 8
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "torrserver",
-              "description": "Allows streaming torrents using TorrServer. Support magnet links and .torrent files",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 726467626,
-                "language": "Lua",
-                "last_commit": "2024-02-05T15:57:00Z",
-                "owner": "kritma",
-                "repo": "mpv-torrserver",
-                "stars": 7
               }
             },
             {
@@ -4558,7 +4558,7 @@
                 "last_commit": "2026-08-21T11:36:49Z",
                 "owner": "mpv-player",
                 "repo": "mpv",
-                "stars": 36614
+                "stars": 36630
               }
             },
             {
@@ -4573,7 +4573,7 @@
                 "last_commit": "2026-08-21T11:36:49Z",
                 "owner": "mpv-player",
                 "repo": "mpv",
-                "stars": 36614
+                "stars": 36630
               }
             },
             {
@@ -4588,7 +4588,7 @@
                 "last_commit": "2026-08-21T11:36:49Z",
                 "owner": "mpv-player",
                 "repo": "mpv",
-                "stars": 36614
+                "stars": 36630
               }
             },
             {
@@ -4603,7 +4603,7 @@
                 "last_commit": "2026-07-12T05:04:14Z",
                 "owner": "422658476",
                 "repo": "MPV-EASY-Player",
-                "stars": 1422
+                "stars": 1423
               }
             },
             {
@@ -4663,7 +4663,7 @@
                 "last_commit": "2024-09-14T16:54:32Z",
                 "owner": "Ashyni",
                 "repo": "mpv-scripts",
-                "stars": 131
+                "stars": 132
               }
             },
             {
@@ -5090,7 +5090,7 @@
                 "last_commit": "2026-08-12T15:02:41Z",
                 "owner": "po5",
                 "repo": "thumbfast",
-                "stars": 1666
+                "stars": 1667
               }
             },
             {
@@ -5838,7 +5838,7 @@
                 "last_commit": "2026-02-24T21:06:25Z",
                 "owner": "Seme4eg",
                 "repo": "mpv-scripts",
-                "stars": 73
+                "stars": 74
               }
             },
             {
@@ -5905,7 +5905,7 @@
                 "last_commit": "2026-08-21T11:36:49Z",
                 "owner": "mpv-player",
                 "repo": "mpv",
-                "stars": 36614
+                "stars": 36630
               }
             },
             {
@@ -5920,7 +5920,7 @@
                 "last_commit": "2026-08-21T11:36:49Z",
                 "owner": "mpv-player",
                 "repo": "mpv",
-                "stars": 36614
+                "stars": 36630
               }
             },
             {
@@ -5935,7 +5935,7 @@
                 "last_commit": "2026-08-21T11:36:49Z",
                 "owner": "mpv-player",
                 "repo": "mpv",
-                "stars": 36614
+                "stars": 36630
               }
             },
             {
@@ -5950,7 +5950,7 @@
                 "last_commit": "2026-07-12T05:04:14Z",
                 "owner": "422658476",
                 "repo": "MPV-EASY-Player",
-                "stars": 1422
+                "stars": 1423
               }
             },
             {
@@ -6025,7 +6025,7 @@
                 "last_commit": "2024-05-21T22:30:48Z",
                 "owner": "dfaker",
                 "repo": "VR-reversal",
-                "stars": 397
+                "stars": 398
               }
             },
             {
@@ -6202,7 +6202,7 @@
                 "archived": false,
                 "id": 848430012,
                 "language": "Python",
-                "last_commit": "2026-08-01T07:46:24Z",
+                "last_commit": "2026-08-22T11:55:57Z",
                 "owner": "AzuredBlue",
                 "repo": "mpv-anilist-updater",
                 "stars": 41
@@ -6834,10 +6834,10 @@
             "archived": false,
             "id": 233280265,
             "language": "Python",
-            "last_commit": "2026-08-21T15:28:56Z",
+            "last_commit": "2026-08-22T15:26:44Z",
             "owner": "jellyfin",
             "repo": "jellyfin-mpv-shim",
-            "stars": 2324
+            "stars": 2328
           }
         },
         {
@@ -6882,7 +6882,7 @@
             "last_commit": "2025-10-20T01:55:06Z",
             "owner": "iwalton3",
             "repo": "plex-mpv-shim",
-            "stars": 410
+            "stars": 411
           }
         },
         {
@@ -6993,7 +6993,7 @@
             "last_commit": "2026-08-17T07:10:46Z",
             "owner": "dyphire",
             "repo": "mpv-config",
-            "stars": 1847
+            "stars": 1848
           }
         },
         {
@@ -7023,7 +7023,7 @@
             "last_commit": "2026-04-30T13:39:38Z",
             "owner": "noelsimbolon",
             "repo": "mpv-config",
-            "stars": 304
+            "stars": 305
           }
         },
         {
@@ -7164,7 +7164,7 @@
             "last_commit": "2023-01-28T18:35:50Z",
             "owner": "Kagami",
             "repo": "boram",
-            "stars": 465
+            "stars": 464
           }
         },
         {
@@ -7200,7 +7200,7 @@
             "last_commit": "2024-08-17T12:09:12Z",
             "owner": "bloc97",
             "repo": "Anime4K",
-            "stars": 21273
+            "stars": 21276
           }
         },
         {
@@ -7275,7 +7275,7 @@
             "last_commit": "2026-08-18T17:45:32Z",
             "owner": "Artoriuz",
             "repo": "ArtCNN",
-            "stars": 354
+            "stars": 355
           }
         },
         {
@@ -7290,7 +7290,7 @@
             "last_commit": "2026-08-20T12:36:58Z",
             "owner": "natural-harmonia-gropius",
             "repo": "hdr-toys",
-            "stars": 188
+            "stars": 189
           }
         },
         {
@@ -7542,7 +7542,7 @@
             "last_commit": "2025-04-24T10:12:36Z",
             "owner": "ozmartian",
             "repo": "vidcutter",
-            "stars": 1975
+            "stars": 1974
           }
         },
         {
@@ -7578,7 +7578,7 @@
             "last_commit": "2026-08-21T11:36:49Z",
             "owner": "mpv-player",
             "repo": "mpv",
-            "stars": 36614
+            "stars": 36630
           }
         },
         {
@@ -7593,7 +7593,7 @@
             "last_commit": "2026-08-09T16:07:51Z",
             "owner": "davatorium",
             "repo": "rofi",
-            "stars": 16342
+            "stars": 16343
           }
         },
         {
@@ -7638,7 +7638,7 @@
             "last_commit": "2025-11-26T13:24:38Z",
             "owner": "stax76",
             "repo": "OpenWithPlusPlus",
-            "stars": 436
+            "stars": 437
           }
         },
         {
@@ -7770,7 +7770,7 @@
             "last_commit": "2026-08-21T11:36:49Z",
             "owner": "mpv-player",
             "repo": "mpv",
-            "stars": 36614
+            "stars": 36630
           }
         },
         {
@@ -7785,7 +7785,7 @@
             "last_commit": "2026-02-09T13:12:05Z",
             "owner": "mpvnet-player",
             "repo": "mpv.net",
-            "stars": 5338
+            "stars": 5341
           }
         },
         {
@@ -7992,7 +7992,7 @@
             "last_commit": "2026-08-05T04:47:10Z",
             "owner": "ripose-jp",
             "repo": "Memento",
-            "stars": 1468
+            "stars": 1469
           }
         },
         {
@@ -8007,7 +8007,7 @@
             "last_commit": "2026-05-20T23:15:49Z",
             "owner": "eonpatapon",
             "repo": "gnome-shell-extension-caffeine",
-            "stars": 772
+            "stars": 774
           }
         },
         {
@@ -8037,7 +8037,7 @@
             "last_commit": "2021-05-02T08:58:14Z",
             "owner": "marcan",
             "repo": "blitzloop",
-            "stars": 229
+            "stars": 230
           }
         },
         {
@@ -8049,7 +8049,7 @@
             "archived": false,
             "id": 51008483,
             "language": "Python",
-            "last_commit": "2026-08-20T22:43:06Z",
+            "last_commit": "2026-08-22T15:51:17Z",
             "owner": "mpvqc",
             "repo": "mpvQC",
             "stars": 79
@@ -8060,7 +8060,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T17:05:16.241Z",
+    "last_updated": "2026-08-22T16:57:55.354Z",
     "original_repository": "stax76/awesome-mpv",
     "original_repository_id": 513573841,
     "original_repository_sha": "53c6c186f55b380924ce4fc9f6035a12267f00c0",
