@@ -14,11 +14,12 @@
                 "archived": false,
                 "id": 347905832,
                 "language": "C++",
-                "last_commit": "2026-08-27T07:36:32Z",
+                "last_commit": "2026-08-28T07:47:15Z",
                 "owner": "smplayer-dev",
                 "repo": "smplayer",
                 "stars": 1041
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "tsl0922",
                 "repo": "ImPlay",
                 "stars": 782
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "coslyk",
                 "repo": "moonplayer",
                 "stars": 686
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "u8sand",
                 "repo": "Baka-MPlayer",
                 "stars": 468
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "lettier",
                 "repo": "movie-monad",
                 "stars": 435
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "varianus",
                 "repo": "ovoplayer",
                 "stars": 65
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             }
           ],
           "description": null,
@@ -114,8 +120,9 @@
                 "last_commit": "2026-02-09T13:12:05Z",
                 "owner": "mpvnet-player",
                 "repo": "mpv.net",
-                "stars": 5350
-              }
+                "stars": 5353
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -129,8 +136,9 @@
                 "last_commit": "2026-07-12T05:04:14Z",
                 "owner": "422658476",
                 "repo": "MPV-EASY-Player",
-                "stars": 1424
-              }
+                "stars": 1426
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -141,11 +149,12 @@
                 "archived": false,
                 "id": 383450035,
                 "language": "C++",
-                "last_commit": "2026-08-26T20:51:31Z",
+                "last_commit": "2026-08-28T04:41:48Z",
                 "owner": "mpc-qt",
                 "repo": "mpc-qt",
-                "stars": 1069
-              }
+                "stars": 1071
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -160,7 +169,8 @@
                 "owner": "stax76",
                 "repo": "mpv-hero",
                 "stars": 137
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -175,7 +185,8 @@
                 "owner": "BazzaCuda",
                 "repo": "MinimalistMediaPlayerX",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             }
           ],
           "description": null,
@@ -197,7 +208,8 @@
                 "owner": "kanishka-linux",
                 "repo": "kawaii-player",
                 "stars": 710
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -212,7 +224,8 @@
                 "owner": "kokoko3k",
                 "repo": "xt7-player-mpv",
                 "stars": 105
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -223,11 +236,12 @@
                 "archived": false,
                 "id": 85048227,
                 "language": "C++",
-                "last_commit": "2026-08-27T01:56:45Z",
+                "last_commit": "2026-08-28T01:24:59Z",
                 "owner": "linuxdeepin",
                 "repo": "deepin-movie-reborn",
                 "stars": 88
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -242,7 +256,8 @@
                 "owner": "Zren",
                 "repo": "mpvz",
                 "stars": 58
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             }
           ],
           "description": null,
@@ -263,8 +278,9 @@
                 "last_commit": "2026-08-26T17:04:18Z",
                 "owner": "mpv-android",
                 "repo": "mpv-android",
-                "stars": 3494
-              }
+                "stars": 3496
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -278,8 +294,9 @@
                 "last_commit": "2026-02-14T07:26:20Z",
                 "owner": "abdallahmehiz",
                 "repo": "mpvKt",
-                "stars": 1337
-              }
+                "stars": 1336
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             }
           ],
           "description": null,
@@ -304,8 +321,9 @@
             "last_commit": "2026-08-28T00:56:12Z",
             "owner": "shinchiro",
             "repo": "mpv-winbuild-cmake",
-            "stars": 1722
-          }
+            "stars": 1723
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         },
         {
           "node_type": "item",
@@ -316,11 +334,12 @@
             "archived": false,
             "id": 412382551,
             "language": "Shell",
-            "last_commit": "2026-08-27T12:42:08Z",
+            "last_commit": "2026-08-28T22:32:29Z",
             "owner": "zhongfly",
             "repo": "mpv-winbuild",
-            "stars": 878
-          }
+            "stars": 880
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         },
         {
           "node_type": "item",
@@ -335,7 +354,8 @@
             "owner": "mpv-easy",
             "repo": "mpv-easy",
             "stars": 137
-          }
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         },
         {
           "node_type": "item",
@@ -350,7 +370,8 @@
             "owner": "mitzsch",
             "repo": "mpv-winbuild",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         },
         {
           "node_type": "item",
@@ -365,7 +386,8 @@
             "owner": "Andarwinux",
             "repo": "mpv-winbuild",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         }
       ],
       "title": "Installation/Download"
@@ -382,11 +404,12 @@
             "archived": false,
             "id": 6201092,
             "language": "C",
-            "last_commit": "2026-08-26T16:04:18Z",
+            "last_commit": "2026-08-28T21:33:56Z",
             "owner": "mpv-player",
             "repo": "mpv",
-            "stars": 36708
-          }
+            "stars": 36721
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         },
         {
           "node_type": "item",
@@ -397,11 +420,12 @@
             "archived": false,
             "id": 6201092,
             "language": "C",
-            "last_commit": "2026-08-26T16:04:18Z",
+            "last_commit": "2026-08-28T21:33:56Z",
             "owner": "mpv-player",
             "repo": "mpv",
-            "stars": 36708
-          }
+            "stars": 36721
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         }
       ],
       "title": "Support"
@@ -420,11 +444,12 @@
                 "archived": false,
                 "id": 6201092,
                 "language": "C",
-                "last_commit": "2026-08-26T16:04:18Z",
+                "last_commit": "2026-08-28T21:33:56Z",
                 "owner": "mpv-player",
                 "repo": "mpv",
-                "stars": 36708
-              }
+                "stars": 36721
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -438,8 +463,9 @@
                 "last_commit": "2026-08-03T15:49:09Z",
                 "owner": "tomasklaen",
                 "repo": "uosc",
-                "stars": 3340
-              }
+                "stars": 3341
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -454,7 +480,8 @@
                 "owner": "stax76",
                 "repo": "mpv-scripts",
                 "stars": 232
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -469,7 +496,8 @@
                 "owner": "stax76",
                 "repo": "mpv-scripts",
                 "stars": 232
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -484,7 +512,8 @@
                 "owner": "stax76",
                 "repo": "mpv-scripts",
                 "stars": 232
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -499,7 +528,8 @@
                 "owner": "tsl0922",
                 "repo": "mpv-menu-plugin",
                 "stars": 204
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -514,7 +544,8 @@
                 "owner": "tsl0922",
                 "repo": "mpv-menu-plugin",
                 "stars": 204
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -525,11 +556,12 @@
                 "archived": false,
                 "id": 480754281,
                 "language": "Shell",
-                "last_commit": "2026-08-27T16:47:21Z",
+                "last_commit": "2026-08-28T19:57:19Z",
                 "owner": "gmt4",
                 "repo": "mpvc",
                 "stars": 158
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -544,7 +576,8 @@
                 "owner": "Seme4eg",
                 "repo": "mpv-scripts",
                 "stars": 74
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -559,7 +592,8 @@
                 "owner": "CogentRedTester",
                 "repo": "mpv-search-page",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -574,7 +608,8 @@
                 "owner": "jonniek",
                 "repo": "mpv-menu",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -589,7 +624,8 @@
                 "owner": "nezumisama",
                 "repo": "mpvmenu",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             }
           ],
           "description": null,
@@ -607,11 +643,12 @@
                 "archived": false,
                 "id": 6201092,
                 "language": "C",
-                "last_commit": "2026-08-26T16:04:18Z",
+                "last_commit": "2026-08-28T21:33:56Z",
                 "owner": "mpv-player",
                 "repo": "mpv",
-                "stars": 36708
-              }
+                "stars": 36721
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -622,11 +659,12 @@
                 "archived": false,
                 "id": 6201092,
                 "language": "C",
-                "last_commit": "2026-08-26T16:04:18Z",
+                "last_commit": "2026-08-28T21:33:56Z",
                 "owner": "mpv-player",
                 "repo": "mpv",
-                "stars": 36708
-              }
+                "stars": 36721
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -637,11 +675,12 @@
                 "archived": false,
                 "id": 6201092,
                 "language": "C",
-                "last_commit": "2026-08-26T16:04:18Z",
+                "last_commit": "2026-08-28T21:33:56Z",
                 "owner": "mpv-player",
                 "repo": "mpv",
-                "stars": 36708
-              }
+                "stars": 36721
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -655,8 +694,9 @@
                 "last_commit": "2026-07-12T05:04:14Z",
                 "owner": "422658476",
                 "repo": "MPV-EASY-Player",
-                "stars": 1424
-              }
+                "stars": 1426
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -670,8 +710,9 @@
                 "last_commit": "2026-06-04T18:35:22Z",
                 "owner": "Samillion",
                 "repo": "ModernZ",
-                "stars": 1186
-              }
+                "stars": 1188
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -686,7 +727,8 @@
                 "owner": "Eisa01",
                 "repo": "mpv-scripts",
                 "stars": 839
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -701,7 +743,8 @@
                 "owner": "Eisa01",
                 "repo": "mpv-scripts",
                 "stars": 839
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -716,7 +759,8 @@
                 "owner": "Eisa01",
                 "repo": "mpv-scripts",
                 "stars": 839
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -731,7 +775,8 @@
                 "owner": "Eisa01",
                 "repo": "mpv-scripts",
                 "stars": 839
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -746,7 +791,8 @@
                 "owner": "Eisa01",
                 "repo": "mpv-scripts",
                 "stars": 839
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -761,7 +807,8 @@
                 "owner": "jonniek",
                 "repo": "mpv-playlistmanager",
                 "stars": 695
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -776,7 +823,8 @@
                 "owner": "occivink",
                 "repo": "mpv-scripts",
                 "stars": 491
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -791,7 +839,8 @@
                 "owner": "occivink",
                 "repo": "mpv-gallery-view",
                 "stars": 258
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -806,7 +855,8 @@
                 "owner": "stax76",
                 "repo": "mpv-scripts",
                 "stars": 232
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -821,7 +871,8 @@
                 "owner": "stax76",
                 "repo": "mpv-scripts",
                 "stars": 232
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -836,7 +887,8 @@
                 "owner": "stax76",
                 "repo": "mpv-scripts",
                 "stars": 232
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -851,7 +903,8 @@
                 "owner": "stax76",
                 "repo": "mpv-scripts",
                 "stars": 232
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -866,7 +919,8 @@
                 "owner": "stax76",
                 "repo": "mpv-scripts",
                 "stars": 232
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -881,7 +935,8 @@
                 "owner": "stax76",
                 "repo": "mpv-scripts",
                 "stars": 232
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -896,7 +951,8 @@
                 "owner": "stax76",
                 "repo": "mpv-scripts",
                 "stars": 232
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -911,7 +967,8 @@
                 "owner": "Argon-",
                 "repo": "mpv-stats",
                 "stars": 212
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -926,7 +983,8 @@
                 "owner": "zenyd",
                 "repo": "mpv-scripts",
                 "stars": 193
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -941,7 +999,8 @@
                 "owner": "zenyd",
                 "repo": "mpv-scripts",
                 "stars": 193
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -956,7 +1015,8 @@
                 "owner": "4e6",
                 "repo": "mpv-reload",
                 "stars": 154
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -971,7 +1031,8 @@
                 "owner": "NurioHin",
                 "repo": "mpv-bookmarker",
                 "stars": 131
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -986,7 +1047,8 @@
                 "owner": "dyphire",
                 "repo": "mpv-scripts",
                 "stars": 123
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -1001,7 +1063,8 @@
                 "owner": "dyphire",
                 "repo": "mpv-scripts",
                 "stars": 123
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -1016,7 +1079,8 @@
                 "owner": "dyphire",
                 "repo": "mpv-scripts",
                 "stars": 123
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -1031,7 +1095,8 @@
                 "owner": "po5",
                 "repo": "memo",
                 "stars": 121
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -1046,7 +1111,8 @@
                 "owner": "butterw",
                 "repo": "bShaders",
                 "stars": 111
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -1061,7 +1127,8 @@
                 "owner": "butterw",
                 "repo": "bShaders",
                 "stars": 111
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -1075,8 +1142,9 @@
                 "last_commit": "2023-08-09T11:15:13Z",
                 "owner": "jonniek",
                 "repo": "mpv-nextfile",
-                "stars": 87
-              }
+                "stars": 88
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -1091,7 +1159,8 @@
                 "owner": "hacel",
                 "repo": "recent",
                 "stars": 85
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -1106,7 +1175,8 @@
                 "owner": "haasn",
                 "repo": "gentoo-conf",
                 "stars": 83
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -1121,7 +1191,8 @@
                 "owner": "mar04",
                 "repo": "chapters_for_mpv",
                 "stars": 82
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -1136,7 +1207,8 @@
                 "owner": "Seme4eg",
                 "repo": "mpv-scripts",
                 "stars": 74
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -1151,7 +1223,8 @@
                 "owner": "ferreum",
                 "repo": "mpv-skipsilence",
                 "stars": 74
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -1166,7 +1239,8 @@
                 "owner": "sibwaf",
                 "repo": "mpv-scripts",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -1181,7 +1255,8 @@
                 "owner": "detuur",
                 "repo": "mpv-scripts",
                 "stars": 66
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -1196,7 +1271,8 @@
                 "owner": "po5",
                 "repo": "evafast",
                 "stars": 59
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -1211,7 +1287,8 @@
                 "owner": "po5",
                 "repo": "trackselect",
                 "stars": 54
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -1226,7 +1303,8 @@
                 "owner": "shinchiro",
                 "repo": "mpv-createchapter",
                 "stars": 54
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -1241,7 +1319,8 @@
                 "owner": "po5",
                 "repo": "chapterskip",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -1256,7 +1335,8 @@
                 "owner": "CogentRedTester",
                 "repo": "mpv-scroll-list",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -1271,7 +1351,8 @@
                 "owner": "nimatrueway",
                 "repo": "mpv-bookmark-lua-script",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -1286,7 +1367,8 @@
                 "owner": "jgreco",
                 "repo": "mpv-scripts",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -1301,7 +1383,8 @@
                 "owner": "AN3223",
                 "repo": "dotfiles",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -1316,7 +1399,8 @@
                 "owner": "AN3223",
                 "repo": "dotfiles",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -1331,7 +1415,8 @@
                 "owner": "AN3223",
                 "repo": "dotfiles",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -1346,7 +1431,8 @@
                 "owner": "AN3223",
                 "repo": "dotfiles",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -1361,7 +1447,8 @@
                 "owner": "natural-harmonia-gropius",
                 "repo": "recent-menu",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -1376,7 +1463,24 @@
                 "owner": "mosquito-byte",
                 "repo": "mpv-interactive-video",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
+            },
+            {
+              "node_type": "item",
+              "title": "autoloop",
+              "description": "Automatically loops files that are under a given duration (default 5 seconds).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 112088473,
+                "language": "Lua",
+                "last_commit": "2020-08-28T17:57:13Z",
+                "owner": "zc62",
+                "repo": "mpv-scripts",
+                "stars": 42
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -1391,22 +1495,8 @@
                 "owner": "zxhzxhz",
                 "repo": "mpv-chapters",
                 "stars": 41
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "autoloop",
-              "description": "Automatically loops files that are under a given duration (default 5 seconds).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 112088473,
-                "language": "Lua",
-                "last_commit": "2020-08-28T17:57:13Z",
-                "owner": "zc62",
-                "repo": "mpv-scripts",
-                "stars": 41
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -1421,7 +1511,8 @@
                 "owner": "oltodosel",
                 "repo": "mpv-scripts",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -1436,7 +1527,8 @@
                 "owner": "oltodosel",
                 "repo": "mpv-scripts",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -1451,7 +1543,8 @@
                 "owner": "oltodosel",
                 "repo": "mpv-scripts",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -1466,7 +1559,8 @@
                 "owner": "oltodosel",
                 "repo": "mpv-scripts",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -1481,7 +1575,8 @@
                 "owner": "oltodosel",
                 "repo": "mpv-scripts",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -1496,7 +1591,8 @@
                 "owner": "zenwarr",
                 "repo": "mpv-config",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -1511,7 +1607,8 @@
                 "owner": "fbriere",
                 "repo": "mpv-scripts",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -1526,7 +1623,8 @@
                 "owner": "po5",
                 "repo": "mpv-auto-chapters",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -1541,7 +1639,8 @@
                 "owner": "LiTO773",
                 "repo": "trakt-mpv",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -1556,7 +1655,8 @@
                 "owner": "CounterPillow",
                 "repo": "mpv-quack",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -1571,7 +1671,8 @@
                 "owner": "yuukidach",
                 "repo": "mpv-scripts",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -1586,7 +1687,8 @@
                 "owner": "VimWei",
                 "repo": "mpv-config",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -1601,7 +1703,8 @@
                 "owner": "CogentRedTester",
                 "repo": "mpv-segment-linking",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -1616,7 +1719,8 @@
                 "owner": "oe-d",
                 "repo": "control",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -1631,7 +1735,8 @@
                 "owner": "idMysteries",
                 "repo": "mpv-skip-silence",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -1646,7 +1751,8 @@
                 "owner": "zsugabubus",
                 "repo": "mpv-fastforward",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -1661,7 +1767,8 @@
                 "owner": "realblaag",
                 "repo": "mpv-multiloop",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -1676,7 +1783,8 @@
                 "owner": "TheAMM",
                 "repo": "mpv_sort_script",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -1691,22 +1799,8 @@
                 "owner": "CogentRedTester",
                 "repo": "mpv-dvd-browser",
                 "stars": 17
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "plugin-bookmark",
-              "description": "Record your playing history for each folder.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 125605556,
-                "language": "Lua",
-                "last_commit": "2018-08-06T08:27:31Z",
-                "owner": "yozorayuki",
-                "repo": "mpv-plugin-bookmark",
-                "stars": 16
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -1721,7 +1815,24 @@
                 "owner": "mrlotfi",
                 "repo": "mpv-libunity",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
+            },
+            {
+              "node_type": "item",
+              "title": "plugin-bookmark",
+              "description": "Record your playing history for each folder.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 125605556,
+                "language": "Lua",
+                "last_commit": "2018-08-06T08:27:31Z",
+                "owner": "yozorayuki",
+                "repo": "mpv-plugin-bookmark",
+                "stars": 15
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -1736,7 +1847,8 @@
                 "owner": "po5",
                 "repo": "groupwatch_sync",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -1751,7 +1863,8 @@
                 "owner": "nmoorthy524",
                 "repo": "mpv-Change-OSD-Media-Title",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -1766,7 +1879,8 @@
                 "owner": "jonniek",
                 "repo": "unseen-playlistmaker",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -1781,7 +1895,8 @@
                 "owner": "WatanabeChika",
                 "repo": "mpv-PiP",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -1796,7 +1911,8 @@
                 "owner": "drogers141",
                 "repo": "mpv-playlist-navigator",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -1811,7 +1927,8 @@
                 "owner": "mustaqimM",
                 "repo": "mpv-scripts",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -1826,7 +1943,8 @@
                 "owner": "NaiveInvestigator",
                 "repo": "save-playlist",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -1841,7 +1959,8 @@
                 "owner": "fatihkaan22",
                 "repo": "mpv-bluetooth-av-delay",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -1856,7 +1975,8 @@
                 "owner": "paradox460",
                 "repo": "mpv-scripts",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -1871,7 +1991,8 @@
                 "owner": "texiwustion",
                 "repo": "bookmarks",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -1886,7 +2007,8 @@
                 "owner": "AdamD2",
                 "repo": "mpv-timer",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -1901,7 +2023,8 @@
                 "owner": "olivierlemoal",
                 "repo": "mpv-radio-title-script",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -1916,7 +2039,8 @@
                 "owner": "amiv1",
                 "repo": "mpv-plugin-myshows",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -1931,7 +2055,8 @@
                 "owner": "ZreXoc",
                 "repo": "mpv-loop-until",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -1946,7 +2071,8 @@
                 "owner": "o770",
                 "repo": "mpvclip-mpvival-mpvloop",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -1961,7 +2087,8 @@
                 "owner": "vflorelle",
                 "repo": "mpv-scripts",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -1976,7 +2103,8 @@
                 "owner": "shadax1",
                 "repo": "mpv_segment_length",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -1991,7 +2119,8 @@
                 "owner": "NovaFormaLab",
                 "repo": "LoopToFile",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -2006,7 +2135,8 @@
                 "owner": "whether1",
                 "repo": "mpv-abstime-osd",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -2021,7 +2151,8 @@
                 "owner": "notuxic",
                 "repo": "mpv-heuristic-autoload",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             }
           ],
           "description": null,
@@ -2043,7 +2174,8 @@
                 "owner": "CogentRedTester",
                 "repo": "mpv-file-browser",
                 "stars": 329
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -2058,7 +2190,8 @@
                 "owner": "stax76",
                 "repo": "mpv-scripts",
                 "stars": 232
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -2073,7 +2206,8 @@
                 "owner": "stax76",
                 "repo": "mpv-scripts",
                 "stars": 232
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -2088,7 +2222,8 @@
                 "owner": "zenyd",
                 "repo": "mpv-scripts",
                 "stars": 193
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -2103,7 +2238,8 @@
                 "owner": "jonniek",
                 "repo": "mpv-filenavigator",
                 "stars": 76
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -2118,7 +2254,8 @@
                 "owner": "sibwaf",
                 "repo": "mpv-scripts",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -2133,7 +2270,8 @@
                 "owner": "SerkioTeam",
                 "repo": "Tagger",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -2148,7 +2286,8 @@
                 "owner": "rossy",
                 "repo": "mpv-open-file-dialog",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -2163,7 +2302,8 @@
                 "owner": "nimatrueway",
                 "repo": "mpv-locatefile-lua-script",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -2178,7 +2318,8 @@
                 "owner": "Kayizoku",
                 "repo": "mpv-rename",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -2193,7 +2334,8 @@
                 "owner": "yuukidach",
                 "repo": "mpv-scripts",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -2208,7 +2350,8 @@
                 "owner": "alifarazz",
                 "repo": "mpv-zenity-open-files",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -2223,7 +2366,8 @@
                 "owner": "kkkrackpot",
                 "repo": "simple-loader",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -2238,7 +2382,8 @@
                 "owner": "glubsy",
                 "repo": "mpv-limited-autoload",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -2253,7 +2398,8 @@
                 "owner": "pvpscript",
                 "repo": "mpv-separator",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -2268,7 +2414,8 @@
                 "owner": "borasavkar",
                 "repo": "mpv-file-organizer",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -2283,7 +2430,8 @@
                 "owner": "ayghub",
                 "repo": "open-dir",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             }
           ],
           "description": null,
@@ -2304,8 +2452,9 @@
                 "last_commit": "2026-08-03T15:49:09Z",
                 "owner": "tomasklaen",
                 "repo": "uosc",
-                "stars": 3340
-              }
+                "stars": 3341
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -2319,8 +2468,9 @@
                 "last_commit": "2026-07-12T05:04:14Z",
                 "owner": "422658476",
                 "repo": "MPV-EASY-Player",
-                "stars": 1424
-              }
+                "stars": 1426
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -2334,8 +2484,9 @@
                 "last_commit": "2026-07-12T05:04:14Z",
                 "owner": "422658476",
                 "repo": "MPV-EASY-Player",
-                "stars": 1424
-              }
+                "stars": 1426
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -2349,8 +2500,9 @@
                 "last_commit": "2026-06-04T18:35:22Z",
                 "owner": "Samillion",
                 "repo": "ModernZ",
-                "stars": 1186
-              }
+                "stars": 1188
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -2365,7 +2517,8 @@
                 "owner": "cyl0",
                 "repo": "ModernX",
                 "stars": 756
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -2380,7 +2533,8 @@
                 "owner": "TheAMM",
                 "repo": "mpv_thumbnail_script",
                 "stars": 715
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -2395,7 +2549,8 @@
                 "owner": "maoiscat",
                 "repo": "mpv-osc-modern",
                 "stars": 427
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -2410,7 +2565,8 @@
                 "owner": "marzzzello",
                 "repo": "mpv_thumbnail_script",
                 "stars": 317
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -2425,7 +2581,8 @@
                 "owner": "zydezu",
                 "repo": "ModernX",
                 "stars": 289
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -2440,7 +2597,8 @@
                 "owner": "Zren",
                 "repo": "mpv-osc-tethys",
                 "stars": 214
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -2455,7 +2613,8 @@
                 "owner": "torque",
                 "repo": "mpv-progressbar",
                 "stars": 169
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -2470,7 +2629,8 @@
                 "owner": "1-minute-to-midnight",
                 "repo": "mpv-modern-x-compact",
                 "stars": 98
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -2485,7 +2645,8 @@
                 "owner": "FinnRaze",
                 "repo": "mpv-osc-modern-f",
                 "stars": 92
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -2500,7 +2661,8 @@
                 "owner": "0dist",
                 "repo": "oscc",
                 "stars": 69
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -2515,7 +2677,8 @@
                 "owner": "maoiscat",
                 "repo": "mpv-dark-box",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -2530,7 +2693,8 @@
                 "owner": "linguisticmind",
                 "repo": "mpv-scripts",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -2545,7 +2709,8 @@
                 "owner": "maoiscat",
                 "repo": "mpv-osc-simple",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -2560,7 +2725,8 @@
                 "owner": "Koopex",
                 "repo": "uosc_history_menu",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -2575,7 +2741,8 @@
                 "owner": "maoiscat",
                 "repo": "mpv-osc-orange",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -2590,7 +2757,8 @@
                 "owner": "felipefacundes",
                 "repo": "mpv_thumbnail_script",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -2605,7 +2773,8 @@
                 "owner": "layercak3",
                 "repo": "mfpbar-drag",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -2620,7 +2789,8 @@
                 "owner": "christoph-heinrich",
                 "repo": "sosc",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             }
           ],
           "description": null,
@@ -2642,7 +2812,8 @@
                 "owner": "CogentRedTester",
                 "repo": "mpv-scripts",
                 "stars": 300
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -2657,7 +2828,8 @@
                 "owner": "stax76",
                 "repo": "mpv-scripts",
                 "stars": 232
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -2672,7 +2844,8 @@
                 "owner": "VideoPlayerCode",
                 "repo": "mpv-tools",
                 "stars": 192
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -2687,7 +2860,8 @@
                 "owner": "wiiaboo",
                 "repo": "mpv-scripts",
                 "stars": 97
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -2702,7 +2876,8 @@
                 "owner": "natural-harmonia-gropius",
                 "repo": "input-event",
                 "stars": 94
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -2717,7 +2892,8 @@
                 "owner": "rossy",
                 "repo": "mpv-repl",
                 "stars": 82
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -2732,7 +2908,8 @@
                 "owner": "wis",
                 "repo": "mpvSockets",
                 "stars": 80
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -2747,7 +2924,8 @@
                 "owner": "Seme4eg",
                 "repo": "mpv-scripts",
                 "stars": 74
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -2762,7 +2940,8 @@
                 "owner": "sibwaf",
                 "repo": "mpv-scripts",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -2777,7 +2956,8 @@
                 "owner": "sibwaf",
                 "repo": "mpv-scripts",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -2792,7 +2972,8 @@
                 "owner": "detuur",
                 "repo": "mpv-scripts",
                 "stars": 66
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -2807,7 +2988,8 @@
                 "owner": "ento",
                 "repo": "mpv-cheatsheet",
                 "stars": 60
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -2822,7 +3004,8 @@
                 "owner": "AN3223",
                 "repo": "dotfiles",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -2837,7 +3020,8 @@
                 "owner": "omeryagmurlu",
                 "repo": "mpv-gestures",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -2852,7 +3036,8 @@
                 "owner": "zenwarr",
                 "repo": "mpv-config",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -2867,7 +3052,8 @@
                 "owner": "fbriere",
                 "repo": "mpv-scripts",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -2882,7 +3068,8 @@
                 "owner": "christoph-heinrich",
                 "repo": "mpv-touch-gestures",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -2897,7 +3084,8 @@
                 "owner": "christoph-heinrich",
                 "repo": "mpv-pointer-event",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -2912,7 +3100,8 @@
                 "owner": "guarapicci",
                 "repo": "mpv-omniGlass",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -2927,7 +3116,8 @@
                 "owner": "Man2Dev",
                 "repo": "mpv-wayland-Boss-key",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             }
           ],
           "description": null,
@@ -2949,7 +3139,8 @@
                 "owner": "davidde",
                 "repo": "mpv-autosub",
                 "stars": 379
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -2964,7 +3155,8 @@
                 "owner": "kelciour",
                 "repo": "playphrase",
                 "stars": 207
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -2979,7 +3171,8 @@
                 "owner": "zenyd",
                 "repo": "mpv-scripts",
                 "stars": 193
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -2994,7 +3187,8 @@
                 "owner": "joaquintorres",
                 "repo": "autosubsync-mpv",
                 "stars": 189
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -3009,7 +3203,8 @@
                 "owner": "kelciour",
                 "repo": "mpv-scripts",
                 "stars": 170
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -3024,7 +3219,8 @@
                 "owner": "kelciour",
                 "repo": "mpv-scripts",
                 "stars": 170
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -3039,7 +3235,8 @@
                 "owner": "kelciour",
                 "repo": "mpv-scripts",
                 "stars": 170
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -3054,7 +3251,8 @@
                 "owner": "kelciour",
                 "repo": "mpv-scripts",
                 "stars": 170
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -3069,7 +3267,8 @@
                 "owner": "kelciour",
                 "repo": "mpv-scripts",
                 "stars": 170
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -3084,7 +3283,8 @@
                 "owner": "kelciour",
                 "repo": "mpv-scripts",
                 "stars": 170
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -3099,7 +3299,8 @@
                 "owner": "kelciour",
                 "repo": "mpv-scripts",
                 "stars": 170
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -3114,7 +3315,8 @@
                 "owner": "AssrtOSS",
                 "repo": "mpv-assrt",
                 "stars": 137
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -3129,7 +3331,8 @@
                 "owner": "CogentRedTester",
                 "repo": "mpv-sub-select",
                 "stars": 134
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -3144,7 +3347,8 @@
                 "owner": "dyphire",
                 "repo": "mpv-scripts",
                 "stars": 123
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -3159,7 +3363,8 @@
                 "owner": "GhostNaN",
                 "repo": "whisper-subs",
                 "stars": 105
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -3174,7 +3379,8 @@
                 "owner": "wiiaboo",
                 "repo": "mpv-scripts",
                 "stars": 97
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -3189,7 +3395,8 @@
                 "owner": "wiiaboo",
                 "repo": "mpv-scripts",
                 "stars": 97
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -3204,7 +3411,8 @@
                 "owner": "Ben-Kerman",
                 "repo": "mpv-sub-scripts",
                 "stars": 93
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -3219,7 +3427,8 @@
                 "owner": "Ben-Kerman",
                 "repo": "mpv-sub-scripts",
                 "stars": 93
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -3233,8 +3442,9 @@
                 "last_commit": "2026-08-01T20:03:51Z",
                 "owner": "Hill-98",
                 "repo": "mpv-config",
-                "stars": 85
-              }
+                "stars": 84
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -3249,7 +3459,8 @@
                 "owner": "vayan",
                 "repo": "autosub-mpv",
                 "stars": 68
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -3264,7 +3475,8 @@
                 "owner": "jgreco",
                 "repo": "mpv-scripts",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -3279,7 +3491,8 @@
                 "owner": "Ajatt-Tools",
                 "repo": "autosubsync-mpv",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -3293,8 +3506,9 @@
                 "last_commit": "2020-08-28T17:57:13Z",
                 "owner": "zc62",
                 "repo": "mpv-scripts",
-                "stars": 41
-              }
+                "stars": 42
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -3309,7 +3523,8 @@
                 "owner": "dyphire",
                 "repo": "mpv-sub-fastwhisper",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -3324,7 +3539,8 @@
                 "owner": "linguisticmind",
                 "repo": "mpv-scripts",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -3339,7 +3555,8 @@
                 "owner": "zenwarr",
                 "repo": "mpv-config",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -3354,7 +3571,8 @@
                 "owner": "zenwarr",
                 "repo": "mpv-config",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -3369,7 +3587,8 @@
                 "owner": "christoph-heinrich",
                 "repo": "mpv-subtitle-lines",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -3384,7 +3603,8 @@
                 "owner": "zenwarr",
                 "repo": "mpv-config",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -3399,7 +3619,8 @@
                 "owner": "directorscut82",
                 "repo": "find_subtitles",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -3414,7 +3635,8 @@
                 "owner": "Ajatt-Tools",
                 "repo": "sub-transition",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -3429,7 +3651,8 @@
                 "owner": "Ajatt-Tools",
                 "repo": "sub-transition",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -3444,7 +3667,8 @@
                 "owner": "VimWei",
                 "repo": "mpv-config",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -3459,7 +3683,8 @@
                 "owner": "VimWei",
                 "repo": "mpv-config",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -3474,7 +3699,8 @@
                 "owner": "fullmetalsheep",
                 "repo": "mpv-iina-scripts",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -3489,7 +3715,8 @@
                 "owner": "sorz",
                 "repo": "mpv-llm-subtrans",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -3504,7 +3731,8 @@
                 "owner": "abdnh",
                 "repo": "intersubs",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -3519,7 +3747,8 @@
                 "owner": "Idlusen",
                 "repo": "mpv-ytsub",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -3534,7 +3763,8 @@
                 "owner": "dyphire",
                 "repo": "mpv-sub-assrt",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -3549,7 +3779,8 @@
                 "owner": "pzim-devdata",
                 "repo": "mpv-scripts",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -3564,7 +3795,8 @@
                 "owner": "po5",
                 "repo": "libass_sub_selector",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -3579,7 +3811,8 @@
                 "owner": "demanuel",
                 "repo": "dessubdb",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -3594,7 +3827,8 @@
                 "owner": "Kibakus",
                 "repo": "mpv-webdav-loader",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -3609,7 +3843,8 @@
                 "owner": "pierretom",
                 "repo": "autoselect-forced-sub",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -3624,7 +3859,8 @@
                 "owner": "elhirchek",
                 "repo": "submpv",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -3639,7 +3875,8 @@
                 "owner": "ayghub",
                 "repo": "rename-sub",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -3654,7 +3891,8 @@
                 "owner": "vflorelle",
                 "repo": "mpv-scripts",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             }
           ],
           "description": null,
@@ -3676,7 +3914,8 @@
                 "owner": "Ajatt-Tools",
                 "repo": "mpvacious",
                 "stars": 880
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -3691,7 +3930,8 @@
                 "owner": "oltodosel",
                 "repo": "interSubs",
                 "stars": 264
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -3706,7 +3946,8 @@
                 "owner": "kelciour",
                 "repo": "mpv-scripts",
                 "stars": 170
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -3721,7 +3962,8 @@
                 "owner": "kelciour",
                 "repo": "mpv-scripts",
                 "stars": 170
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -3736,7 +3978,8 @@
                 "owner": "Ben-Kerman",
                 "repo": "immersive",
                 "stars": 94
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -3751,7 +3994,8 @@
                 "owner": "liberlanco",
                 "repo": "mpv-lang-learner",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -3766,7 +4010,8 @@
                 "owner": "fxmarty",
                 "repo": "rikai-mpv",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -3781,7 +4026,8 @@
                 "owner": "senneh",
                 "repo": "mpv2anki",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -3796,7 +4042,8 @@
                 "owner": "migaku-official",
                 "repo": "migaku-mpv",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -3811,7 +4058,8 @@
                 "owner": "alyssabedard",
                 "repo": "mpv2anki",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -3826,7 +4074,8 @@
                 "owner": "laelnasan",
                 "repo": "yomichampv",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -3841,7 +4090,8 @@
                 "owner": "tripasect",
                 "repo": "mpv-Subtitle-Definition",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             }
           ],
           "description": null,
@@ -3863,7 +4113,8 @@
                 "owner": "guidocella",
                 "repo": "mpv-lrc",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -3878,7 +4129,8 @@
                 "owner": "vc-01",
                 "repo": "metadata-osd",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -3893,7 +4145,8 @@
                 "owner": "CogentRedTester",
                 "repo": "mpv-coverart",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             }
           ],
           "description": null,
@@ -3911,11 +4164,12 @@
                 "archived": false,
                 "id": 6201092,
                 "language": "C",
-                "last_commit": "2026-08-26T16:04:18Z",
+                "last_commit": "2026-08-28T21:33:56Z",
                 "owner": "mpv-player",
                 "repo": "mpv",
-                "stars": 36708
-              }
+                "stars": 36721
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -3930,7 +4184,8 @@
                 "owner": "stax76",
                 "repo": "mpv-scripts",
                 "stars": 232
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -3945,7 +4200,8 @@
                 "owner": "mfcc64",
                 "repo": "mpv-scripts",
                 "stars": 207
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -3960,7 +4216,8 @@
                 "owner": "mfcc64",
                 "repo": "mpv-scripts",
                 "stars": 207
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -3975,7 +4232,8 @@
                 "owner": "dyphire",
                 "repo": "mpv-scripts",
                 "stars": 123
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -3990,7 +4248,8 @@
                 "owner": "wiiaboo",
                 "repo": "mpv-scripts",
                 "stars": 97
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -4005,7 +4264,8 @@
                 "owner": "TinosNitso",
                 "repo": "mpv-scripts",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -4020,7 +4280,8 @@
                 "owner": "he2a",
                 "repo": "mpv-scripts",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -4035,7 +4296,8 @@
                 "owner": "FichteFoll",
                 "repo": "mpv-scripts",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -4050,7 +4312,8 @@
                 "owner": "mesvam",
                 "repo": "ff-silence",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -4065,7 +4328,8 @@
                 "owner": "lvm",
                 "repo": "mpv-osc",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -4080,7 +4344,8 @@
                 "owner": "Kibakus",
                 "repo": "mpv-webdav-loader",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -4095,7 +4360,8 @@
                 "owner": "70sh1",
                 "repo": "mpv-switch-both-audio",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             }
           ],
           "description": null,
@@ -4116,8 +4382,9 @@
                 "last_commit": "2024-05-01T13:51:47Z",
                 "owner": "po5",
                 "repo": "mpv_sponsorblock",
-                "stars": 628
-              }
+                "stars": 629
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -4132,7 +4399,8 @@
                 "owner": "CogentRedTester",
                 "repo": "mpv-scripts",
                 "stars": 300
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -4147,7 +4415,8 @@
                 "owner": "christoph-heinrich",
                 "repo": "mpv-quality-menu",
                 "stars": 235
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -4162,7 +4431,8 @@
                 "owner": "Sagnac",
                 "repo": "streamsave",
                 "stars": 128
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -4177,7 +4447,8 @@
                 "owner": "noctuid",
                 "repo": "mpv-webtorrent-hook",
                 "stars": 128
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -4192,7 +4463,8 @@
                 "owner": "grmat",
                 "repo": "play-with",
                 "stars": 105
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -4207,7 +4479,8 @@
                 "owner": "cvzi",
                 "repo": "mpv-youtube-download",
                 "stars": 104
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -4222,7 +4495,8 @@
                 "owner": "chachmu",
                 "repo": "mpvDLNA",
                 "stars": 86
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -4237,7 +4511,8 @@
                 "owner": "cvzi",
                 "repo": "mpv-youtube-upnext",
                 "stars": 81
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -4252,7 +4527,8 @@
                 "owner": "EmperorPenguin18",
                 "repo": "mpv-jellyfin",
                 "stars": 72
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -4267,7 +4543,8 @@
                 "owner": "Samillion",
                 "repo": "mpv-ytdlautoformat",
                 "stars": 58
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -4282,7 +4559,8 @@
                 "owner": "Digitalone1",
                 "repo": "mpv-acestream",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -4297,7 +4575,8 @@
                 "owner": "demurky",
                 "repo": "mpv-selectformat",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -4312,7 +4591,8 @@
                 "owner": "blue-sky-r",
                 "repo": "mpv",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -4327,7 +4607,8 @@
                 "owner": "rozari0",
                 "repo": "mpv-youtube-search",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -4342,7 +4623,8 @@
                 "owner": "bitingsock",
                 "repo": "ytdl-preload",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -4357,7 +4639,8 @@
                 "owner": "purarue",
                 "repo": "mpvf",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -4372,7 +4655,8 @@
                 "owner": "ksyasuda",
                 "repo": "mpv-youtube-queue",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -4387,7 +4671,8 @@
                 "owner": "noctuid",
                 "repo": "mpv-btfs-stream",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -4402,7 +4687,8 @@
                 "owner": "divout",
                 "repo": "mpv_reduce_stream_cache",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -4417,7 +4703,8 @@
                 "owner": "ftk",
                 "repo": "mpv-confluence",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -4432,7 +4719,8 @@
                 "owner": "olivierlemoal",
                 "repo": "mpv-spotify-script",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -4447,7 +4735,8 @@
                 "owner": "aitet",
                 "repo": "mpv-btfs-hook",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -4462,7 +4751,8 @@
                 "owner": "noctuid",
                 "repo": "mpv-peerflix-hook",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -4477,7 +4767,8 @@
                 "owner": "kritma",
                 "repo": "mpv-torrserver",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -4492,7 +4783,8 @@
                 "owner": "MugoSquero",
                 "repo": "mpv_scrobbler",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -4507,7 +4799,8 @@
                 "owner": "eNV25",
                 "repo": "mpv-torrserver-hook",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -4522,7 +4815,8 @@
                 "owner": "pekkarr",
                 "repo": "mpv-yledl",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -4537,7 +4831,8 @@
                 "owner": "Akemi",
                 "repo": "mpv-sopcast-hook",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             }
           ],
           "description": null,
@@ -4555,11 +4850,12 @@
                 "archived": false,
                 "id": 6201092,
                 "language": "C",
-                "last_commit": "2026-08-26T16:04:18Z",
+                "last_commit": "2026-08-28T21:33:56Z",
                 "owner": "mpv-player",
                 "repo": "mpv",
-                "stars": 36708
-              }
+                "stars": 36721
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -4570,11 +4866,12 @@
                 "archived": false,
                 "id": 6201092,
                 "language": "C",
-                "last_commit": "2026-08-26T16:04:18Z",
+                "last_commit": "2026-08-28T21:33:56Z",
                 "owner": "mpv-player",
                 "repo": "mpv",
-                "stars": 36708
-              }
+                "stars": 36721
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -4585,11 +4882,12 @@
                 "archived": false,
                 "id": 6201092,
                 "language": "C",
-                "last_commit": "2026-08-26T16:04:18Z",
+                "last_commit": "2026-08-28T21:33:56Z",
                 "owner": "mpv-player",
                 "repo": "mpv",
-                "stars": 36708
-              }
+                "stars": 36721
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -4603,8 +4901,9 @@
                 "last_commit": "2026-07-12T05:04:14Z",
                 "owner": "422658476",
                 "repo": "MPV-EASY-Player",
-                "stars": 1424
-              }
+                "stars": 1426
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -4619,7 +4918,8 @@
                 "owner": "occivink",
                 "repo": "mpv-scripts",
                 "stars": 491
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -4634,7 +4934,8 @@
                 "owner": "occivink",
                 "repo": "mpv-scripts",
                 "stars": 491
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -4649,7 +4950,8 @@
                 "owner": "VideoPlayerCode",
                 "repo": "mpv-tools",
                 "stars": 192
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -4663,8 +4965,9 @@
                 "last_commit": "2024-09-14T16:54:32Z",
                 "owner": "Ashyni",
                 "repo": "mpv-scripts",
-                "stars": 132
-              }
+                "stars": 133
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -4679,7 +4982,8 @@
                 "owner": "dyphire",
                 "repo": "mpv-scripts",
                 "stars": 123
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -4694,7 +4998,8 @@
                 "owner": "butterw",
                 "repo": "bShaders",
                 "stars": 111
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -4709,7 +5014,8 @@
                 "owner": "butterw",
                 "repo": "bShaders",
                 "stars": 111
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -4724,7 +5030,8 @@
                 "owner": "kasper93",
                 "repo": "mpv360",
                 "stars": 75
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -4739,7 +5046,8 @@
                 "owner": "kevinlekiller",
                 "repo": "mpv_scripts",
                 "stars": 72
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -4754,7 +5062,8 @@
                 "owner": "kevinlekiller",
                 "repo": "mpv_scripts",
                 "stars": 72
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -4769,7 +5078,8 @@
                 "owner": "detuur",
                 "repo": "mpv-scripts",
                 "stars": 66
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -4784,7 +5094,8 @@
                 "owner": "hdb",
                 "repo": "mpv-live-filters",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -4799,7 +5110,8 @@
                 "owner": "CogentRedTester",
                 "repo": "mpv-changerefresh",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -4814,7 +5126,8 @@
                 "owner": "AN3223",
                 "repo": "dotfiles",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -4829,7 +5142,8 @@
                 "owner": "AN3223",
                 "repo": "dotfiles",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -4844,7 +5158,8 @@
                 "owner": "kism",
                 "repo": "mpvscripts",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -4859,7 +5174,8 @@
                 "owner": "kism",
                 "repo": "mpvscripts",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -4874,7 +5190,8 @@
                 "owner": "Kagami",
                 "repo": "mpv_frame_info",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -4889,7 +5206,8 @@
                 "owner": "TinosNitso",
                 "repo": "mpv-scripts",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -4904,7 +5222,8 @@
                 "owner": "TinosNitso",
                 "repo": "mpv-scripts",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -4919,7 +5238,8 @@
                 "owner": "TinosNitso",
                 "repo": "mpv-scripts",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -4934,7 +5254,8 @@
                 "owner": "dyphire",
                 "repo": "mpv-display-plugin",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -4949,7 +5270,8 @@
                 "owner": "Samillion",
                 "repo": "mpv-boxtowide",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -4964,7 +5286,8 @@
                 "owner": "he2a",
                 "repo": "mpv-scripts",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -4979,7 +5302,8 @@
                 "owner": "maoiscat",
                 "repo": "mpv-mvtools-script",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -4994,7 +5318,8 @@
                 "owner": "MikelSotomonte",
                 "repo": "mpv-waveform",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -5009,7 +5334,8 @@
                 "owner": "layercak3",
                 "repo": "mpvif",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -5024,7 +5350,8 @@
                 "owner": "CounterPillow",
                 "repo": "mpv-gpufreq",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -5039,7 +5366,8 @@
                 "owner": "sbruder",
                 "repo": "mpv-matroska-crop",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -5054,7 +5382,8 @@
                 "owner": "GitHubUserKaito",
                 "repo": "mpv-delogo",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -5069,7 +5398,8 @@
                 "owner": "garamond13",
                 "repo": "Fast-Catmull-Rom",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             }
           ],
           "description": null,
@@ -5090,8 +5420,9 @@
                 "last_commit": "2026-08-12T15:02:41Z",
                 "owner": "po5",
                 "repo": "thumbfast",
-                "stars": 1674
-              }
+                "stars": 1675
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -5106,7 +5437,8 @@
                 "owner": "occivink",
                 "repo": "mpv-image-viewer",
                 "stars": 363
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -5121,7 +5453,8 @@
                 "owner": "occivink",
                 "repo": "mpv-gallery-view",
                 "stars": 258
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -5136,7 +5469,8 @@
                 "owner": "stax76",
                 "repo": "mpv-scripts",
                 "stars": 232
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -5151,7 +5485,8 @@
                 "owner": "zydezu",
                 "repo": "mpvconfig",
                 "stars": 109
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -5166,7 +5501,8 @@
                 "owner": "TheAMM",
                 "repo": "mpv_crop_script",
                 "stars": 101
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -5181,7 +5517,8 @@
                 "owner": "ObserverOfTime",
                 "repo": "mpv-scripts",
                 "stars": 54
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -5196,7 +5533,8 @@
                 "owner": "the-honey",
                 "repo": "mpv-gif-generator",
                 "stars": 54
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -5211,7 +5549,24 @@
                 "owner": "jgreco",
                 "repo": "mpv-scripts",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
+            },
+            {
+              "node_type": "item",
+              "title": "screenshot-to-clipboard",
+              "description": "Takes a screenshot and saves it to the clipboard.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 112088473,
+                "language": "Lua",
+                "last_commit": "2020-08-28T17:57:13Z",
+                "owner": "zc62",
+                "repo": "mpv-scripts",
+                "stars": 42
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -5226,22 +5581,8 @@
                 "owner": "noaione",
                 "repo": "mpv-js-scripts",
                 "stars": 42
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "screenshot-to-clipboard",
-              "description": "Takes a screenshot and saves it to the clipboard.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 112088473,
-                "language": "Lua",
-                "last_commit": "2020-08-28T17:57:13Z",
-                "owner": "zc62",
-                "repo": "mpv-scripts",
-                "stars": 41
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -5256,7 +5597,8 @@
                 "owner": "jonniek",
                 "repo": "mpv-waifu2x",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -5271,7 +5613,8 @@
                 "owner": "guidocella",
                 "repo": "mpv-image-config",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -5286,7 +5629,8 @@
                 "owner": "noctuid",
                 "repo": "gallery-dl-view",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -5301,7 +5645,8 @@
                 "owner": "outlook84",
                 "repo": "mpv-webp-avif-generator",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -5316,7 +5661,8 @@
                 "owner": "DonCanjas",
                 "repo": "mpv-webp-generator",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -5331,7 +5677,8 @@
                 "owner": "Arieleg",
                 "repo": "mpv-takeSsSequence",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -5346,7 +5693,8 @@
                 "owner": "XeinyX",
                 "repo": "mpv_gallery-screenshots",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -5361,7 +5709,8 @@
                 "owner": "Thann",
                 "repo": "mpv-abs-screenshot",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -5376,7 +5725,8 @@
                 "owner": "BanchouBoo",
                 "repo": "mpv-sorted-screenshots",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             }
           ],
           "description": null,
@@ -5398,7 +5748,8 @@
                 "owner": "Ajatt-Tools",
                 "repo": "videoclip",
                 "stars": 196
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -5413,7 +5764,8 @@
                 "owner": "kelciour",
                 "repo": "mpv-scripts",
                 "stars": 170
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -5428,7 +5780,8 @@
                 "owner": "zydezu",
                 "repo": "mpvconfig",
                 "stars": 109
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -5443,7 +5796,8 @@
                 "owner": "aerobounce",
                 "repo": "trim.lua",
                 "stars": 102
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -5458,7 +5812,8 @@
                 "owner": "aidanholm",
                 "repo": "mpv-easycrop",
                 "stars": 87
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -5473,7 +5828,8 @@
                 "owner": "Kagami",
                 "repo": "mpv_slicing",
                 "stars": 86
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -5488,7 +5844,8 @@
                 "owner": "pvpscript",
                 "repo": "mpv-video-splice",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -5503,7 +5860,8 @@
                 "owner": "4ndrs",
                 "repo": "PureMPV",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -5518,7 +5876,8 @@
                 "owner": "snylonue",
                 "repo": "mpv_slicing_copy",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -5533,7 +5892,8 @@
                 "owner": "b1scoito",
                 "repo": "mpv-cut",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -5548,7 +5908,8 @@
                 "owner": "lunagus",
                 "repo": "mpv-clipper",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             }
           ],
           "description": null,
@@ -5570,7 +5931,8 @@
                 "owner": "tnychn",
                 "repo": "mpv-discord",
                 "stars": 187
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -5585,7 +5947,8 @@
                 "owner": "cniw",
                 "repo": "mpv-discordRPC",
                 "stars": 163
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -5600,7 +5963,8 @@
                 "owner": "CrendKing",
                 "repo": "mpv-twitch-chat",
                 "stars": 101
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -5615,7 +5979,8 @@
                 "owner": "noaione",
                 "repo": "mpv-discordRPC",
                 "stars": 63
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -5630,7 +5995,8 @@
                 "owner": "BanchouBoo",
                 "repo": "mpv-youtube-chat",
                 "stars": 59
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -5645,7 +6011,8 @@
                 "owner": "ryze312",
                 "repo": "mpv-rpc",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -5660,7 +6027,8 @@
                 "owner": "morrah",
                 "repo": "mpv-twitch-chat-irc",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -5675,7 +6043,8 @@
                 "owner": "yutotakano",
                 "repo": "mpvcord",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -5690,7 +6059,8 @@
                 "owner": "po5",
                 "repo": "mpv_irc",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -5705,7 +6075,8 @@
                 "owner": "huisedenanhai",
                 "repo": "LoadDanmaku",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             }
           ],
           "description": null,
@@ -5727,7 +6098,8 @@
                 "owner": "VideoPlayerCode",
                 "repo": "mpv-tools",
                 "stars": 192
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -5742,7 +6114,8 @@
                 "owner": "d87",
                 "repo": "mpv-persist-properties",
                 "stars": 99
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -5757,7 +6130,8 @@
                 "owner": "zenwarr",
                 "repo": "mpv-config",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -5772,7 +6146,8 @@
                 "owner": "po5",
                 "repo": "celebi",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -5787,7 +6162,8 @@
                 "owner": "Static39",
                 "repo": "mpv-scripts",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -5802,7 +6178,8 @@
                 "owner": "viniciusbm",
                 "repo": "mpv-cycle-through-existing",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -5817,7 +6194,8 @@
                 "owner": "pierretom",
                 "repo": "show-conf-osd",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             }
           ],
           "description": null,
@@ -5839,7 +6217,8 @@
                 "owner": "Seme4eg",
                 "repo": "mpv-scripts",
                 "stars": 74
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -5854,7 +6233,8 @@
                 "owner": "maoiscat",
                 "repo": "mpv-osc-framework",
                 "stars": 59
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -5869,7 +6249,8 @@
                 "owner": "CogentRedTester",
                 "repo": "mpv-user-input",
                 "stars": 57
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -5884,7 +6265,8 @@
                 "owner": "CogentRedTester",
                 "repo": "mpv-scroll-list",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             }
           ],
           "description": null,
@@ -5902,11 +6284,12 @@
                 "archived": false,
                 "id": 6201092,
                 "language": "C",
-                "last_commit": "2026-08-26T16:04:18Z",
+                "last_commit": "2026-08-28T21:33:56Z",
                 "owner": "mpv-player",
                 "repo": "mpv",
-                "stars": 36708
-              }
+                "stars": 36721
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -5917,11 +6300,12 @@
                 "archived": false,
                 "id": 6201092,
                 "language": "C",
-                "last_commit": "2026-08-26T16:04:18Z",
+                "last_commit": "2026-08-28T21:33:56Z",
                 "owner": "mpv-player",
                 "repo": "mpv",
-                "stars": 36708
-              }
+                "stars": 36721
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -5932,11 +6316,12 @@
                 "archived": false,
                 "id": 6201092,
                 "language": "C",
-                "last_commit": "2026-08-26T16:04:18Z",
+                "last_commit": "2026-08-28T21:33:56Z",
                 "owner": "mpv-player",
                 "repo": "mpv",
-                "stars": 36708
-              }
+                "stars": 36721
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -5950,8 +6335,9 @@
                 "last_commit": "2026-07-12T05:04:14Z",
                 "owner": "422658476",
                 "repo": "MPV-EASY-Player",
-                "stars": 1424
-              }
+                "stars": 1426
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -5966,7 +6352,8 @@
                 "owner": "Eisa01",
                 "repo": "mpv-scripts",
                 "stars": 839
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -5981,7 +6368,8 @@
                 "owner": "Eisa01",
                 "repo": "mpv-scripts",
                 "stars": 839
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -5996,7 +6384,8 @@
                 "owner": "ekisu",
                 "repo": "mpv-webm",
                 "stars": 676
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -6011,7 +6400,8 @@
                 "owner": "occivink",
                 "repo": "mpv-scripts",
                 "stars": 491
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -6026,7 +6416,8 @@
                 "owner": "dfaker",
                 "repo": "VR-reversal",
                 "stars": 398
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -6041,7 +6432,8 @@
                 "owner": "stax76",
                 "repo": "mpv-scripts",
                 "stars": 232
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -6056,7 +6448,8 @@
                 "owner": "stax76",
                 "repo": "mpv-scripts",
                 "stars": 232
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -6071,7 +6464,8 @@
                 "owner": "zenyd",
                 "repo": "mpv-scripts",
                 "stars": 193
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -6086,7 +6480,8 @@
                 "owner": "VideoPlayerCode",
                 "repo": "mpv-tools",
                 "stars": 192
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -6101,7 +6496,8 @@
                 "owner": "Dudemanguy",
                 "repo": "mpv-manga-reader",
                 "stars": 175
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -6116,7 +6512,8 @@
                 "owner": "butterw",
                 "repo": "bShaders",
                 "stars": 111
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -6131,7 +6528,8 @@
                 "owner": "wiiaboo",
                 "repo": "mpv-scripts",
                 "stars": 97
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -6146,7 +6544,8 @@
                 "owner": "Arieleg",
                 "repo": "mpv-copyTime",
                 "stars": 94
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -6161,7 +6560,8 @@
                 "owner": "AN3223",
                 "repo": "dotfiles",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -6176,7 +6576,8 @@
                 "owner": "po5",
                 "repo": "mpv_manager",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -6190,8 +6591,9 @@
                 "last_commit": "2020-08-28T17:57:13Z",
                 "owner": "zc62",
                 "repo": "mpv-scripts",
-                "stars": 41
-              }
+                "stars": 42
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -6206,7 +6608,8 @@
                 "owner": "AzuredBlue",
                 "repo": "mpv-anilist-updater",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -6221,7 +6624,8 @@
                 "owner": "linguisticmind",
                 "repo": "mpv-scripts",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -6236,7 +6640,8 @@
                 "owner": "Guldoman",
                 "repo": "mpv_inhibit_gnome",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -6251,7 +6656,8 @@
                 "owner": "tsl0922",
                 "repo": "mpv-debug-plugin",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -6266,7 +6672,8 @@
                 "owner": "Parranoh",
                 "repo": "mpv-notify-send",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -6281,7 +6688,8 @@
                 "owner": "blue-sky-r",
                 "repo": "mpv",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -6296,7 +6704,8 @@
                 "owner": "blue-sky-r",
                 "repo": "mpv",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -6311,7 +6720,8 @@
                 "owner": "qwerty12",
                 "repo": "mpv-taskbar-buttons",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -6326,7 +6736,8 @@
                 "owner": "jgreco",
                 "repo": "mpv-txt",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -6341,7 +6752,8 @@
                 "owner": "raphaeltannous",
                 "repo": "mpv-copyStuff",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -6356,7 +6768,8 @@
                 "owner": "elhirchek",
                 "repo": "copy-paste-url",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -6371,7 +6784,8 @@
                 "owner": "ctlaltdefeat",
                 "repo": "mpv-open-imdb-page",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -6386,7 +6800,8 @@
                 "owner": "TinosNitso",
                 "repo": "mpv-scripts",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -6401,7 +6816,8 @@
                 "owner": "rohieb",
                 "repo": "mpv-notify",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -6416,7 +6832,8 @@
                 "owner": "ehoneyse",
                 "repo": "mpv-open-anilist-page",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -6431,7 +6848,8 @@
                 "owner": "hubblec4",
                 "repo": "mpvMatroska",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -6446,7 +6864,8 @@
                 "owner": "Akemi",
                 "repo": "mpv-oled-screensaver",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -6461,7 +6880,8 @@
                 "owner": "jgreco",
                 "repo": "mpv-pdf",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -6476,7 +6896,8 @@
                 "owner": "CogentRedTester",
                 "repo": "mpv-clipboard",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -6491,7 +6912,8 @@
                 "owner": "dyphire",
                 "repo": "trakt-scrobble",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -6506,7 +6928,8 @@
                 "owner": "he2a",
                 "repo": "mpv-scripts",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -6521,7 +6944,8 @@
                 "owner": "kungfubeaner",
                 "repo": "mpv-ontop-only-while-playing-lua",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -6536,7 +6960,8 @@
                 "owner": "mdnghtman",
                 "repo": "mpv-i3-floating-centered",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -6551,7 +6976,8 @@
                 "owner": "guidocella",
                 "repo": "mpv-lua-repl",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -6566,7 +6992,8 @@
                 "owner": "WatanabeChika",
                 "repo": "mpv-lines-meme-generator",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -6581,7 +7008,8 @@
                 "owner": "mpv-notify",
                 "repo": "mpv-notify",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -6596,7 +7024,8 @@
                 "owner": "hoehermann",
                 "repo": "mpv-mpegts-truncate",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -6611,7 +7040,8 @@
                 "owner": "kauron",
                 "repo": "mpv-notify",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -6626,7 +7056,8 @@
                 "owner": "yazeed44",
                 "repo": "mpv-scripts",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -6641,7 +7072,8 @@
                 "owner": "WANDEX",
                 "repo": "mpv-open-kinopoisk-page",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -6656,7 +7088,8 @@
                 "owner": "budRich",
                 "repo": "mpv-xfce-genmonify",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -6671,7 +7104,8 @@
                 "owner": "Eskander",
                 "repo": "kodi-mpv-hook",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -6686,7 +7120,8 @@
                 "owner": "wishyu",
                 "repo": "mpv-ontop-window",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -6701,7 +7136,8 @@
                 "owner": "Ares-0",
                 "repo": "mpv-composition-guides",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -6716,7 +7152,8 @@
                 "owner": "CogentRedTester",
                 "repo": "mpv-user-data-loader",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -6731,7 +7168,8 @@
                 "owner": "Funami580",
                 "repo": "dotfiles",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -6746,7 +7184,8 @@
                 "owner": "layercak3",
                 "repo": "mpv-notification-osd",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -6761,7 +7200,8 @@
                 "owner": "dimitris888",
                 "repo": "mpv-deframe",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             },
             {
               "node_type": "item",
@@ -6776,7 +7216,8 @@
                 "owner": "Farzat07",
                 "repo": "mpv_socket",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T00:41:37.793Z"
             }
           ],
           "description": null,
@@ -6802,7 +7243,8 @@
             "owner": "keshavbhatt",
             "repo": "olivia",
             "stars": 377
-          }
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         },
         {
           "node_type": "item",
@@ -6817,7 +7259,8 @@
             "owner": "Dudemanguy",
             "repo": "vmn",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         }
       ],
       "title": "Music Player"
@@ -6834,11 +7277,12 @@
             "archived": false,
             "id": 233280265,
             "language": "Python",
-            "last_commit": "2026-08-27T21:26:20Z",
+            "last_commit": "2026-08-28T19:10:00Z",
             "owner": "jellyfin",
             "repo": "jellyfin-mpv-shim",
-            "stars": 2341
-          }
+            "stars": 2342
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         },
         {
           "node_type": "item",
@@ -6853,7 +7297,8 @@
             "owner": "woodruffw",
             "repo": "ff2mpv",
             "stars": 639
-          }
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         },
         {
           "node_type": "item",
@@ -6868,7 +7313,8 @@
             "owner": "lkabuci",
             "repo": "Botflix",
             "stars": 419
-          }
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         },
         {
           "node_type": "item",
@@ -6883,7 +7329,8 @@
             "owner": "iwalton3",
             "repo": "plex-mpv-shim",
             "stars": 411
-          }
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         },
         {
           "node_type": "item",
@@ -6898,7 +7345,8 @@
             "owner": "Thann",
             "repo": "play-with-mpv",
             "stars": 372
-          }
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         },
         {
           "node_type": "item",
@@ -6913,7 +7361,8 @@
             "owner": "alamminsalo",
             "repo": "orion",
             "stars": 315
-          }
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         },
         {
           "node_type": "item",
@@ -6928,7 +7377,8 @@
             "owner": "mrxdst",
             "repo": "webtorrent-mpv-hook",
             "stars": 196
-          }
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         },
         {
           "node_type": "item",
@@ -6943,7 +7393,8 @@
             "owner": "aykevl",
             "repo": "plaincast",
             "stars": 128
-          }
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         },
         {
           "node_type": "item",
@@ -6958,7 +7409,8 @@
             "owner": "PCigales",
             "repo": "DLNAmpvRenderer",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         },
         {
           "node_type": "item",
@@ -6973,7 +7425,8 @@
             "owner": "hdb",
             "repo": "qtube",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         }
       ],
       "title": "Streaming Tools"
@@ -6994,7 +7447,8 @@
             "owner": "dyphire",
             "repo": "mpv-config",
             "stars": 1856
-          }
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         },
         {
           "node_type": "item",
@@ -7009,7 +7463,8 @@
             "owner": "Zabooby",
             "repo": "mpv-config",
             "stars": 563
-          }
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         },
         {
           "node_type": "item",
@@ -7024,7 +7479,8 @@
             "owner": "noelsimbolon",
             "repo": "mpv-config",
             "stars": 306
-          }
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         },
         {
           "node_type": "item",
@@ -7039,7 +7495,8 @@
             "owner": "natural-harmonia-gropius",
             "repo": "mpv-config",
             "stars": 105
-          }
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         },
         {
           "node_type": "item",
@@ -7054,7 +7511,8 @@
             "owner": "tuilakhanh",
             "repo": "mpv-config",
             "stars": 74
-          }
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         },
         {
           "node_type": "item",
@@ -7069,7 +7527,8 @@
             "owner": "Awan",
             "repo": "cfg",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         },
         {
           "node_type": "item",
@@ -7084,7 +7543,8 @@
             "owner": "zenwarr",
             "repo": "mpv-config",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         },
         {
           "node_type": "item",
@@ -7099,7 +7559,8 @@
             "owner": "hooke007",
             "repo": "MPV_lazy",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         },
         {
           "node_type": "item",
@@ -7114,7 +7575,8 @@
             "owner": "qwerty12",
             "repo": "mpv-config",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         },
         {
           "node_type": "item",
@@ -7129,7 +7591,8 @@
             "owner": "DonCanjas",
             "repo": "mpv-dotfiles",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         },
         {
           "node_type": "item",
@@ -7144,7 +7607,8 @@
             "owner": "mustaqimM",
             "repo": "mpv-scripts",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         }
       ],
       "title": "User Configuration"
@@ -7165,7 +7629,8 @@
             "owner": "Kagami",
             "repo": "boram",
             "stars": 463
-          }
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         },
         {
           "node_type": "item",
@@ -7180,7 +7645,8 @@
             "owner": "Kagami",
             "repo": "webm.py",
             "stars": 145
-          }
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         }
       ],
       "title": "Video Conversion"
@@ -7200,8 +7666,9 @@
             "last_commit": "2024-08-17T12:09:12Z",
             "owner": "bloc97",
             "repo": "Anime4K",
-            "stars": 21298
-          }
+            "stars": 21297
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         },
         {
           "node_type": "item",
@@ -7216,7 +7683,8 @@
             "owner": "igv",
             "repo": "FSRCNN-TensorFlow",
             "stars": 501
-          }
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         },
         {
           "node_type": "item",
@@ -7231,7 +7699,8 @@
             "owner": "bjin",
             "repo": "mpv-prescalers",
             "stars": 448
-          }
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         },
         {
           "node_type": "item",
@@ -7246,7 +7715,8 @@
             "owner": "Artoriuz",
             "repo": "ArtCNN",
             "stars": 361
-          }
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         },
         {
           "node_type": "item",
@@ -7261,7 +7731,8 @@
             "owner": "Sirosky",
             "repo": "Upscale-Hub",
             "stars": 361
-          }
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         },
         {
           "node_type": "item",
@@ -7276,7 +7747,8 @@
             "owner": "Sirosky",
             "repo": "Upscale-Hub",
             "stars": 361
-          }
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         },
         {
           "node_type": "item",
@@ -7291,7 +7763,8 @@
             "owner": "natural-harmonia-gropius",
             "repo": "hdr-toys",
             "stars": 191
-          }
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         },
         {
           "node_type": "item",
@@ -7306,7 +7779,8 @@
             "owner": "funnyplanter",
             "repo": "CuNNy",
             "stars": 166
-          }
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         },
         {
           "node_type": "item",
@@ -7321,7 +7795,8 @@
             "owner": "butterw",
             "repo": "bShaders",
             "stars": 111
-          }
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         },
         {
           "node_type": "item",
@@ -7336,7 +7811,8 @@
             "owner": "haasn",
             "repo": "gentoo-conf",
             "stars": 83
-          }
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         },
         {
           "node_type": "item",
@@ -7351,7 +7827,8 @@
             "owner": "haasn",
             "repo": "gentoo-conf",
             "stars": 83
-          }
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         },
         {
           "node_type": "item",
@@ -7366,7 +7843,8 @@
             "owner": "AN3223",
             "repo": "dotfiles",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         },
         {
           "node_type": "item",
@@ -7381,7 +7859,8 @@
             "owner": "Artoriuz",
             "repo": "glsl-joint-bilateral",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         },
         {
           "node_type": "item",
@@ -7396,7 +7875,8 @@
             "owner": "Artoriuz",
             "repo": "glsl-pixel-clipper",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         },
         {
           "node_type": "item",
@@ -7411,7 +7891,8 @@
             "owner": "garamond13",
             "repo": "alt-scale",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         },
         {
           "node_type": "item",
@@ -7426,7 +7907,8 @@
             "owner": "garamond13",
             "repo": "Jinc",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         },
         {
           "node_type": "item",
@@ -7441,7 +7923,8 @@
             "owner": "garamond13",
             "repo": "unsharp_masking.glsl",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         },
         {
           "node_type": "item",
@@ -7456,7 +7939,8 @@
             "owner": "garamond13",
             "repo": "Unsharp-mask-and-Gaussian-blur",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         },
         {
           "node_type": "item",
@@ -7471,7 +7955,8 @@
             "owner": "garamond13",
             "repo": "2D-Image-Resampling",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         },
         {
           "node_type": "item",
@@ -7486,7 +7971,8 @@
             "owner": "NotMithical",
             "repo": "MPV-NLS-Next",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         }
       ],
       "title": "Shaders"
@@ -7507,7 +7993,8 @@
             "owner": "haasn",
             "repo": "gentoo-conf",
             "stars": 83
-          }
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         },
         {
           "node_type": "item",
@@ -7522,7 +8009,8 @@
             "owner": "haasn",
             "repo": "gentoo-conf",
             "stars": 83
-          }
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         }
       ],
       "title": "VapourSynth Scripts"
@@ -7543,7 +8031,8 @@
             "owner": "ozmartian",
             "repo": "vidcutter",
             "stars": 1976
-          }
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         },
         {
           "node_type": "item",
@@ -7557,8 +8046,9 @@
             "last_commit": "2026-07-27T02:35:31Z",
             "owner": "scateu",
             "repo": "tsv_edl.vim",
-            "stars": 102
-          }
+            "stars": 101
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         }
       ],
       "title": "Video Editing Tools"
@@ -7575,11 +8065,12 @@
             "archived": false,
             "id": 6201092,
             "language": "C",
-            "last_commit": "2026-08-26T16:04:18Z",
+            "last_commit": "2026-08-28T21:33:56Z",
             "owner": "mpv-player",
             "repo": "mpv",
-            "stars": 36708
-          }
+            "stars": 36721
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         },
         {
           "node_type": "item",
@@ -7593,8 +8084,9 @@
             "last_commit": "2026-08-27T12:41:51Z",
             "owner": "davatorium",
             "repo": "rofi",
-            "stars": 16353
-          }
+            "stars": 16354
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         },
         {
           "node_type": "item",
@@ -7608,8 +8100,9 @@
             "last_commit": "2026-08-26T19:40:20Z",
             "owner": "Flow-Launcher",
             "repo": "Flow.Launcher",
-            "stars": 15446
-          }
+            "stars": 15451
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         },
         {
           "node_type": "item",
@@ -7623,8 +8116,9 @@
             "last_commit": "2026-07-25T07:16:30Z",
             "owner": "ikas-mc",
             "repo": "ContextMenuForWindows11",
-            "stars": 2868
-          }
+            "stars": 2870
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         },
         {
           "node_type": "item",
@@ -7639,7 +8133,8 @@
             "owner": "stax76",
             "repo": "OpenWithPlusPlus",
             "stars": 436
-          }
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         },
         {
           "node_type": "item",
@@ -7654,7 +8149,8 @@
             "owner": "stax76",
             "repo": "Flow.Launcher.Plugin.Favorites",
             "stars": 74
-          }
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         }
       ],
       "title": "Launcher"
@@ -7675,7 +8171,8 @@
             "owner": "hoyon",
             "repo": "mpv-mpris",
             "stars": 737
-          }
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         },
         {
           "node_type": "item",
@@ -7690,7 +8187,8 @@
             "owner": "open-dynaMIX",
             "repo": "simple-mpv-webui",
             "stars": 165
-          }
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         },
         {
           "node_type": "item",
@@ -7705,7 +8203,8 @@
             "owner": "mcastorina",
             "repo": "mpv-remote-app",
             "stars": 101
-          }
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         },
         {
           "node_type": "item",
@@ -7720,7 +8219,8 @@
             "owner": "husudosu",
             "repo": "mpv-remote-app",
             "stars": 99
-          }
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         },
         {
           "node_type": "item",
@@ -7735,7 +8235,8 @@
             "owner": "datasone",
             "repo": "MPVMediaControl",
             "stars": 70
-          }
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         },
         {
           "node_type": "item",
@@ -7750,7 +8251,8 @@
             "owner": "dodo",
             "repo": "lua-mpris",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         }
       ],
       "title": "Remote Control"
@@ -7767,11 +8269,12 @@
             "archived": false,
             "id": 6201092,
             "language": "C",
-            "last_commit": "2026-08-26T16:04:18Z",
+            "last_commit": "2026-08-28T21:33:56Z",
             "owner": "mpv-player",
             "repo": "mpv",
-            "stars": 36708
-          }
+            "stars": 36721
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         },
         {
           "node_type": "item",
@@ -7785,8 +8288,9 @@
             "last_commit": "2026-02-09T13:12:05Z",
             "owner": "mpvnet-player",
             "repo": "mpv.net",
-            "stars": 5350
-          }
+            "stars": 5353
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         },
         {
           "node_type": "item",
@@ -7800,8 +8304,9 @@
             "last_commit": "2026-08-18T14:44:53Z",
             "owner": "m-ab-s",
             "repo": "media-autobuild_suite",
-            "stars": 1813
-          }
+            "stars": 1814
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         },
         {
           "node_type": "item",
@@ -7816,7 +8321,8 @@
             "owner": "mpv-player",
             "repo": "mpv-build",
             "stars": 491
-          }
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         },
         {
           "node_type": "item",
@@ -7831,7 +8337,8 @@
             "owner": "qyot27",
             "repo": "mpv",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         }
       ],
       "title": "Building"
@@ -7852,7 +8359,8 @@
             "owner": "jaseg",
             "repo": "python-mpv",
             "stars": 631
-          }
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         },
         {
           "node_type": "item",
@@ -7867,7 +8375,8 @@
             "owner": "Kagami",
             "repo": "mpv.js",
             "stars": 446
-          }
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         },
         {
           "node_type": "item",
@@ -7882,7 +8391,8 @@
             "owner": "mpvkit",
             "repo": "MPVKit",
             "stars": 195
-          }
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         },
         {
           "node_type": "item",
@@ -7897,7 +8407,8 @@
             "owner": "mpv-easy",
             "repo": "mpv-easy",
             "stars": 137
-          }
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         },
         {
           "node_type": "item",
@@ -7912,7 +8423,8 @@
             "owner": "URUWorks",
             "repo": "UW_MPVPlayer",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         },
         {
           "node_type": "item",
@@ -7927,7 +8439,8 @@
             "owner": "marcan",
             "repo": "pympv",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         },
         {
           "node_type": "item",
@@ -7942,7 +8455,8 @@
             "owner": "woodruffw",
             "repo": "ruby-mpv",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         },
         {
           "node_type": "item",
@@ -7957,7 +8471,8 @@
             "owner": "rcombs",
             "repo": "node-mpv",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         },
         {
           "node_type": "item",
@@ -7972,7 +8487,8 @@
             "owner": "Cerlancism",
             "repo": "mpv.d.ts",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         }
       ],
       "title": "Library"
@@ -7993,7 +8509,8 @@
             "owner": "ripose-jp",
             "repo": "Memento",
             "stars": 1471
-          }
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         },
         {
           "node_type": "item",
@@ -8007,8 +8524,9 @@
             "last_commit": "2026-05-20T23:15:49Z",
             "owner": "eonpatapon",
             "repo": "gnome-shell-extension-caffeine",
-            "stars": 775
-          }
+            "stars": 776
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         },
         {
           "node_type": "item",
@@ -8023,7 +8541,8 @@
             "owner": "rossy",
             "repo": "mpv-install",
             "stars": 468
-          }
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         },
         {
           "node_type": "item",
@@ -8038,7 +8557,8 @@
             "owner": "marcan",
             "repo": "blitzloop",
             "stars": 230
-          }
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         },
         {
           "node_type": "item",
@@ -8053,14 +8573,15 @@
             "owner": "mpvqc",
             "repo": "mpvQC",
             "stars": 79
-          }
+          },
+          "first_seen": "2026-08-29T00:41:37.793Z"
         }
       ],
       "title": "Other Tools"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T01:07:49.907Z",
+    "last_updated": "2026-08-29T00:41:37.793Z",
     "original_repository_info": {
       "archived": false,
       "id": 513573841,
@@ -8068,7 +8589,7 @@
       "last_commit": "2026-02-04T06:50:20Z",
       "owner": "stax76",
       "repo": "awesome-mpv",
-      "stars": 2249
+      "stars": 2248
     },
     "original_repository_sha": "53c6c186f55b380924ce4fc9f6035a12267f00c0",
     "enhanced_repository": "enhansome/enhansome-mpv",
