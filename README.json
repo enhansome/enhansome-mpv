@@ -17,11 +17,11 @@
                 "id": 347905832,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-08-28T07:47:15Z",
-                "open_issues": 81,
+                "last_commit": "2026-08-29T07:34:32Z",
+                "open_issues": 79,
                 "owner": "smplayer-dev",
                 "repo": "smplayer",
-                "stars": 1041,
+                "stars": 1042,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:37.793Z"
@@ -205,7 +205,7 @@
                 "open_issues": 156,
                 "owner": "mpvnet-player",
                 "repo": "mpv.net",
-                "stars": 5354,
+                "stars": 5353,
                 "topics": [
                   "audio-player",
                   "command-line",
@@ -284,8 +284,8 @@
                 "id": 383450035,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-08-28T04:41:48Z",
-                "open_issues": 117,
+                "last_commit": "2026-08-29T11:52:47Z",
+                "open_issues": 118,
                 "owner": "mpc-qt",
                 "repo": "mpc-qt",
                 "stars": 1071,
@@ -497,10 +497,10 @@
                 "language": "Kotlin",
                 "license": "MIT",
                 "last_commit": "2026-08-26T17:04:18Z",
-                "open_issues": 165,
+                "open_issues": 166,
                 "owner": "mpv-android",
                 "repo": "mpv-android",
-                "stars": 3496,
+                "stars": 3502,
                 "topics": [
                   "android-app",
                   "audio",
@@ -567,10 +567,10 @@
             "language": "CMake",
             "license": null,
             "last_commit": "2026-08-29T00:53:24Z",
-            "open_issues": 59,
+            "open_issues": 60,
             "owner": "shinchiro",
             "repo": "mpv-winbuild-cmake",
-            "stars": 1723,
+            "stars": 1724,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.793Z"
@@ -587,11 +587,11 @@
             "id": 412382551,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-08-28T22:32:29Z",
+            "last_commit": "2026-08-29T12:24:59Z",
             "open_issues": 0,
             "owner": "zhongfly",
             "repo": "mpv-winbuild",
-            "stars": 881,
+            "stars": 893,
             "topics": [
               "ffmpeg",
               "github-action",
@@ -614,7 +614,7 @@
             "id": 745779336,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-08-20T04:44:12Z",
+            "last_commit": "2026-08-29T12:45:02Z",
             "open_issues": 75,
             "owner": "mpv-easy",
             "repo": "mpv-easy",
@@ -660,7 +660,7 @@
             "id": 688005300,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-08-24T09:18:45Z",
+            "last_commit": "2026-08-29T10:36:02Z",
             "open_issues": 3,
             "owner": "Andarwinux",
             "repo": "mpv-winbuild",
@@ -702,10 +702,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-08-28T21:33:56Z",
-            "open_issues": 1143,
+            "open_issues": 1145,
             "owner": "mpv-player",
             "repo": "mpv",
-            "stars": 36723,
+            "stars": 36740,
             "topics": [
               "audio",
               "c",
@@ -731,10 +731,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-08-28T21:33:56Z",
-            "open_issues": 1143,
+            "open_issues": 1145,
             "owner": "mpv-player",
             "repo": "mpv",
-            "stars": 36723,
+            "stars": 36740,
             "topics": [
               "audio",
               "c",
@@ -768,10 +768,10 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-28T21:33:56Z",
-                "open_issues": 1143,
+                "open_issues": 1145,
                 "owner": "mpv-player",
                 "repo": "mpv",
-                "stars": 36723,
+                "stars": 36740,
                 "topics": [
                   "audio",
                   "c",
@@ -800,7 +800,7 @@
                 "open_issues": 34,
                 "owner": "tomasklaen",
                 "repo": "uosc",
-                "stars": 3341,
+                "stars": 3348,
                 "topics": [
                   "mpv",
                   "mpv-script"
@@ -952,7 +952,7 @@
                 "id": 480754281,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-08-28T19:57:19Z",
+                "last_commit": "2026-08-29T10:57:29Z",
                 "open_issues": 1,
                 "owner": "gmt4",
                 "repo": "mpvc",
@@ -1096,10 +1096,10 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-28T21:33:56Z",
-                "open_issues": 1143,
+                "open_issues": 1145,
                 "owner": "mpv-player",
                 "repo": "mpv",
-                "stars": 36723,
+                "stars": 36740,
                 "topics": [
                   "audio",
                   "c",
@@ -1125,10 +1125,10 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-28T21:33:56Z",
-                "open_issues": 1143,
+                "open_issues": 1145,
                 "owner": "mpv-player",
                 "repo": "mpv",
-                "stars": 36723,
+                "stars": 36740,
                 "topics": [
                   "audio",
                   "c",
@@ -1154,10 +1154,10 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-28T21:33:56Z",
-                "open_issues": 1143,
+                "open_issues": 1145,
                 "owner": "mpv-player",
                 "repo": "mpv",
-                "stars": 36723,
+                "stars": 36740,
                 "topics": [
                   "audio",
                   "c",
@@ -1228,7 +1228,7 @@
                 "open_issues": 25,
                 "owner": "Samillion",
                 "repo": "ModernZ",
-                "stars": 1189,
+                "stars": 1192,
                 "topics": [
                   "mpv",
                   "mpv-osc",
@@ -1253,7 +1253,7 @@
                 "open_issues": 56,
                 "owner": "Eisa01",
                 "repo": "mpv-scripts",
-                "stars": 839,
+                "stars": 840,
                 "topics": [
                   "clipboard",
                   "lua",
@@ -1279,7 +1279,7 @@
                 "open_issues": 56,
                 "owner": "Eisa01",
                 "repo": "mpv-scripts",
-                "stars": 839,
+                "stars": 840,
                 "topics": [
                   "clipboard",
                   "lua",
@@ -1305,7 +1305,7 @@
                 "open_issues": 56,
                 "owner": "Eisa01",
                 "repo": "mpv-scripts",
-                "stars": 839,
+                "stars": 840,
                 "topics": [
                   "clipboard",
                   "lua",
@@ -1331,7 +1331,7 @@
                 "open_issues": 56,
                 "owner": "Eisa01",
                 "repo": "mpv-scripts",
-                "stars": 839,
+                "stars": 840,
                 "topics": [
                   "clipboard",
                   "lua",
@@ -1357,7 +1357,7 @@
                 "open_issues": 56,
                 "owner": "Eisa01",
                 "repo": "mpv-scripts",
-                "stars": 839,
+                "stars": 840,
                 "topics": [
                   "clipboard",
                   "lua",
@@ -3882,7 +3882,7 @@
                 "open_issues": 34,
                 "owner": "tomasklaen",
                 "repo": "uosc",
-                "stars": 3341,
+                "stars": 3348,
                 "topics": [
                   "mpv",
                   "mpv-script"
@@ -3990,7 +3990,7 @@
                 "open_issues": 25,
                 "owner": "Samillion",
                 "repo": "ModernZ",
-                "stars": 1189,
+                "stars": 1192,
                 "topics": [
                   "mpv",
                   "mpv-osc",
@@ -4015,7 +4015,7 @@
                 "open_issues": 20,
                 "owner": "cyl0",
                 "repo": "ModernX",
-                "stars": 756,
+                "stars": 757,
                 "topics": [
                   "mpv"
                 ]
@@ -4068,7 +4068,7 @@
                 "open_issues": 15,
                 "owner": "maoiscat",
                 "repo": "mpv-osc-modern",
-                "stars": 427,
+                "stars": 428,
                 "topics": [
                   "mpv",
                   "mpv-osc",
@@ -4120,7 +4120,7 @@
                 "open_issues": 4,
                 "owner": "zydezu",
                 "repo": "ModernX",
-                "stars": 289,
+                "stars": 290,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:37.793Z"
@@ -6184,7 +6184,7 @@
                 "open_issues": 12,
                 "owner": "Ajatt-Tools",
                 "repo": "mpvacious",
-                "stars": 880,
+                "stars": 881,
                 "topics": [
                   "ajatt",
                   "anki",
@@ -6296,7 +6296,7 @@
                 "open_issues": 5,
                 "owner": "Ben-Kerman",
                 "repo": "immersive",
-                "stars": 94,
+                "stars": 95,
                 "topics": [
                   "anki",
                   "copy-paste",
@@ -6598,10 +6598,10 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-28T21:33:56Z",
-                "open_issues": 1143,
+                "open_issues": 1145,
                 "owner": "mpv-player",
                 "repo": "mpv",
-                "stars": 36723,
+                "stars": 36740,
                 "topics": [
                   "audio",
                   "c",
@@ -7674,10 +7674,10 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-28T21:33:56Z",
-                "open_issues": 1143,
+                "open_issues": 1145,
                 "owner": "mpv-player",
                 "repo": "mpv",
-                "stars": 36723,
+                "stars": 36740,
                 "topics": [
                   "audio",
                   "c",
@@ -7703,10 +7703,10 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-28T21:33:56Z",
-                "open_issues": 1143,
+                "open_issues": 1145,
                 "owner": "mpv-player",
                 "repo": "mpv",
-                "stars": 36723,
+                "stars": 36740,
                 "topics": [
                   "audio",
                   "c",
@@ -7732,10 +7732,10 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-28T21:33:56Z",
-                "open_issues": 1143,
+                "open_issues": 1145,
                 "owner": "mpv-player",
                 "repo": "mpv",
-                "stars": 36723,
+                "stars": 36740,
                 "topics": [
                   "audio",
                   "c",
@@ -8598,7 +8598,7 @@
                 "open_issues": 55,
                 "owner": "po5",
                 "repo": "thumbfast",
-                "stars": 1675,
+                "stars": 1676,
                 "topics": [
                   "mpv",
                   "mpv-script",
@@ -8702,7 +8702,7 @@
                 "open_issues": 0,
                 "owner": "zydezu",
                 "repo": "mpvconfig",
-                "stars": 109,
+                "stars": 110,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:37.793Z"
@@ -9145,7 +9145,7 @@
                 "open_issues": 0,
                 "owner": "zydezu",
                 "repo": "mpvconfig",
-                "stars": 109,
+                "stars": 110,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:37.793Z"
@@ -9920,10 +9920,10 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-28T21:33:56Z",
-                "open_issues": 1143,
+                "open_issues": 1145,
                 "owner": "mpv-player",
                 "repo": "mpv",
-                "stars": 36723,
+                "stars": 36740,
                 "topics": [
                   "audio",
                   "c",
@@ -9949,10 +9949,10 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-28T21:33:56Z",
-                "open_issues": 1143,
+                "open_issues": 1145,
                 "owner": "mpv-player",
                 "repo": "mpv",
-                "stars": 36723,
+                "stars": 36740,
                 "topics": [
                   "audio",
                   "c",
@@ -9978,10 +9978,10 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-28T21:33:56Z",
-                "open_issues": 1143,
+                "open_issues": 1145,
                 "owner": "mpv-player",
                 "repo": "mpv",
-                "stars": 36723,
+                "stars": 36740,
                 "topics": [
                   "audio",
                   "c",
@@ -10052,7 +10052,7 @@
                 "open_issues": 56,
                 "owner": "Eisa01",
                 "repo": "mpv-scripts",
-                "stars": 839,
+                "stars": 840,
                 "topics": [
                   "clipboard",
                   "lua",
@@ -10078,7 +10078,7 @@
                 "open_issues": 56,
                 "owner": "Eisa01",
                 "repo": "mpv-scripts",
-                "stars": 839,
+                "stars": 840,
                 "topics": [
                   "clipboard",
                   "lua",
@@ -11448,11 +11448,11 @@
             "id": 233280265,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-29T04:05:03Z",
+            "last_commit": "2026-08-29T13:34:31Z",
             "open_issues": 176,
             "owner": "jellyfin",
             "repo": "jellyfin-mpv-shim",
-            "stars": 2342,
+            "stars": 2344,
             "topics": [
               "jellyfin",
               "jellyfin-client",
@@ -11721,7 +11721,7 @@
             "open_issues": 7,
             "owner": "dyphire",
             "repo": "mpv-config",
-            "stars": 1856,
+            "stars": 1858,
             "topics": [
               "glsl",
               "lua",
@@ -11749,7 +11749,7 @@
             "open_issues": 0,
             "owner": "Zabooby",
             "repo": "mpv-config",
-            "stars": 563,
+            "stars": 565,
             "topics": [
               "config",
               "configuration-files",
@@ -11785,7 +11785,7 @@
             "open_issues": 2,
             "owner": "noelsimbolon",
             "repo": "mpv-config",
-            "stars": 306,
+            "stars": 307,
             "topics": [
               "glsl",
               "glsl-shaders",
@@ -11812,7 +11812,7 @@
             "id": 410496816,
             "language": "GLSL",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-21T14:43:25Z",
+            "last_commit": "2026-08-29T18:57:08Z",
             "open_issues": 0,
             "owner": "natural-harmonia-gropius",
             "repo": "mpv-config",
@@ -12095,7 +12095,7 @@
             "open_issues": 123,
             "owner": "bloc97",
             "repo": "Anime4K",
-            "stars": 21297,
+            "stars": 21303,
             "topics": [
               "anime",
               "anime-upscaling",
@@ -12237,7 +12237,7 @@
             "id": 599630798,
             "language": "GLSL",
             "license": "MIT",
-            "last_commit": "2026-08-20T12:36:58Z",
+            "last_commit": "2026-08-29T17:05:55Z",
             "open_issues": 18,
             "owner": "natural-harmonia-gropius",
             "repo": "hdr-toys",
@@ -12652,7 +12652,7 @@
             "open_issues": 1,
             "owner": "scateu",
             "repo": "tsv_edl.vim",
-            "stars": 101,
+            "stars": 102,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.793Z"
@@ -12676,10 +12676,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-08-28T21:33:56Z",
-            "open_issues": 1143,
+            "open_issues": 1145,
             "owner": "mpv-player",
             "repo": "mpv",
-            "stars": 36723,
+            "stars": 36740,
             "topics": [
               "audio",
               "c",
@@ -12708,7 +12708,7 @@
             "open_issues": 114,
             "owner": "davatorium",
             "repo": "rofi",
-            "stars": 16354,
+            "stars": 16355,
             "topics": [
               "application-launcher",
               "c",
@@ -12736,10 +12736,10 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-08-26T19:40:20Z",
-            "open_issues": 303,
+            "open_issues": 305,
             "owner": "Flow-Launcher",
             "repo": "Flow.Launcher",
-            "stars": 15452,
+            "stars": 15455,
             "topics": [
               "alfred",
               "application-launcher",
@@ -12780,7 +12780,7 @@
             "open_issues": 20,
             "owner": "ikas-mc",
             "repo": "ContextMenuForWindows11",
-            "stars": 2870,
+            "stars": 2871,
             "topics": [
               "context-menu",
               "uwp",
@@ -13010,10 +13010,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-08-28T21:33:56Z",
-            "open_issues": 1143,
+            "open_issues": 1145,
             "owner": "mpv-player",
             "repo": "mpv",
-            "stars": 36723,
+            "stars": 36740,
             "topics": [
               "audio",
               "c",
@@ -13042,7 +13042,7 @@
             "open_issues": 156,
             "owner": "mpvnet-player",
             "repo": "mpv.net",
-            "stars": 5354,
+            "stars": 5353,
             "topics": [
               "audio-player",
               "command-line",
@@ -13248,7 +13248,7 @@
             "id": 745779336,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-08-20T04:44:12Z",
+            "last_commit": "2026-08-29T12:45:02Z",
             "open_issues": 75,
             "owner": "mpv-easy",
             "repo": "mpv-easy",
@@ -13433,7 +13433,7 @@
             "open_issues": 41,
             "owner": "eonpatapon",
             "repo": "gnome-shell-extension-caffeine",
-            "stars": 776,
+            "stars": 777,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.793Z"
@@ -13524,7 +13524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:23:53.656Z",
+    "last_updated": "2026-08-29T19:30:17.545Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome mpv resources.",
@@ -13536,7 +13536,7 @@
       "open_issues": 11,
       "owner": "stax76",
       "repo": "awesome-mpv",
-      "stars": 2248,
+      "stars": 2251,
       "topics": [
         "awesome",
         "awesome-list",
