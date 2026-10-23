@@ -61,11 +61,11 @@ A curated list of [awesome](https://github.com/topics/awesome) mpv resources.
 
 ## Windows
 
-* [mpv.net](https://github.com/mpvnet-player/mpv.net) ⭐ 5,495 | 🐛 156 | 🌐 C# | 📅 2026-02-09 - Based on C#/WinForms/WPF.
-* [MPV-EASY Player](https://github.com/422658476/MPV-EASY-Player) ⭐ 1,452 | 🐛 1 | 🌐 Lua | 📅 2026-10-21
-* [mpc-qt](https://github.com/mpc-qt/mpc-qt) ⭐ 1,126 | 🐛 113 | 🌐 C++ | 📅 2026-10-22 - Based on C++/QT.
+* [mpv.net](https://github.com/mpvnet-player/mpv.net) ⭐ 5,497 | 🐛 156 | 🌐 C# | 📅 2026-02-09 - Based on C#/WinForms/WPF.
+* [MPV-EASY Player](https://github.com/422658476/MPV-EASY-Player) ⭐ 1,451 | 🐛 1 | 🌐 Lua | 📅 2026-10-21
+* [mpc-qt](https://github.com/mpc-qt/mpc-qt) ⭐ 1,129 | 🐛 113 | 🌐 C++ | 📅 2026-10-23 - Based on C++/QT.
 * [mpv-hero](https://github.com/stax76/mpv-hero) ⭐ 139 | 🐛 8 | 🌐 Lua | 📅 2025-11-26 - mpv extended with GUI scripts and GUI tools.
-* [MMP: Minimalist Media Player](https://github.com/BazzaCuda/MinimalistMediaPlayerX) ⭐ 57 | 🐛 3 | 🌐 Pascal | 📅 2026-10-13 - Player/Manager/Editor for audio and video, and Viewer/Manager for images/thumbnails; maintained, based on 64-bit Delphi Pascal. Official [wiki](https://minimalistmediaplayer.com).
+* [MMP: Minimalist Media Player](https://github.com/BazzaCuda/MinimalistMediaPlayerX) ⭐ 58 | 🐛 3 | 🌐 Pascal | 📅 2026-10-13 - Player/Manager/Editor for audio and video, and Viewer/Manager for images/thumbnails; maintained, based on 64-bit Delphi Pascal. Official [wiki](https://minimalistmediaplayer.com).
 
 ## MacOS
 
@@ -75,7 +75,7 @@ A curated list of [awesome](https://github.com/topics/awesome) mpv resources.
 
 * [Kawaii Player](https://github.com/kanishka-linux/kawaii-player) ⭐ 713 | 🐛 17 | 🌐 Python | 📅 2026-09-18 - Player/Library/Server, based on Python/QT.
 * [xt7-player-mpv](https://github.com/kokoko3k/xt7-player-mpv) ⭐ 105 | 🐛 2 | 🌐 Lua | 📅 2026-09-11 - Based on Gambas/QT.
-* [Deepin Movie](https://github.com/linuxdeepin/deepin-movie-reborn) ⭐ 90 | 🐛 11 | 🌐 C++ | 📅 2026-10-22 - Unmaintained, based on C++/QT.
+* [Deepin Movie](https://github.com/linuxdeepin/deepin-movie-reborn) ⭐ 90 | 🐛 14 | 🌐 C++ | 📅 2026-10-23 - Unmaintained, based on C++/QT.
 * [mpvz](https://github.com/Zren/mpvz) ⭐ 57 | 🐛 11 | 🌐 QML | 📅 2022-02-14 - Based on C++/QT/QML.
 * [Celluloid](https://celluloid-player.github.io) - Based on C/GTK.
 * [Haruna](https://invent.kde.org/multimedia/haruna) - Based on C++/QT/QML.
@@ -83,13 +83,13 @@ A curated list of [awesome](https://github.com/topics/awesome) mpv resources.
 
 ## Android
 
-* [android](https://github.com/mpv-android/mpv-android) ⭐ 3,639 | 🐛 163 | 🌐 Kotlin | 📅 2026-10-20 - Player for Android, based on Kotlin.
+* [android](https://github.com/mpv-android/mpv-android) ⭐ 3,639 | 🐛 163 | 🌐 Kotlin | 📅 2026-10-23 - Player for Android, based on Kotlin.
 * [Kt](https://github.com/abdallahmehiz/mpvKt) ⚠️ Archived - Player for Android, based on Kotlin.
 
 # Installation/Download
 
-* [shinchiro GitHub](https://github.com/shinchiro/mpv-winbuild-cmake) ⭐ 1,827 | 🐛 64 | 🌐 CMake | 📅 2026-10-21 - Daily Windows builds of mpv and libmpv. This is the most popular choice on Windows.
-* [zhongfly](https://github.com/zhongfly/mpv-winbuild) ⭐ 953 | 🐛 0 | 🌐 Shell | 📅 2026-10-22 - Windows builds of mpv and libmpv. This choice is very similar to `shinchiro GitHub`, so it's also a recommendation.
+* [shinchiro GitHub](https://github.com/shinchiro/mpv-winbuild-cmake) ⭐ 1,830 | 🐛 65 | 🌐 CMake | 📅 2026-10-21 - Daily Windows builds of mpv and libmpv. This is the most popular choice on Windows.
+* [zhongfly](https://github.com/zhongfly/mpv-winbuild) ⭐ 956 | 🐛 0 | 🌐 Shell | 📅 2026-10-23 - Windows builds of mpv and libmpv. This choice is very similar to `shinchiro GitHub`, so it's also a recommendation.
 * [mpsm](https://github.com/mpv-easy/mpv-easy/tree/main/mpv-mpsm) ⭐ 142 | 🐛 78 | 🌐 TypeScript | 📅 2026-09-29 - mpsm is a mpv script manager, you can install scripts provided by [mpsm-scripts](https://github.com/mpv-easy/mpsm-scripts) ⭐ 24 | 🐛 0 | 🌐 Lua | 📅 2026-09-23, or install any script with added [meta info](https://github.com/mpv-easy/mpsm-scripts?tab=readme-ov-file#meta-info) ⭐ 24 | 🐛 0 | 🌐 Lua | 📅 2026-09-23 via url.
 * [mitzsch](https://github.com/mitzsch/mpv-winbuild) ⭐ 29 | 🐛 0 | 🌐 Shell | 📅 2026-10-14 - Windows builds of mpv and libmpv.
 * [Andarwinux](https://github.com/Andarwinux/mpv-winbuild) ⭐ 23 | 🐛 3 | 🌐 Shell | 📅 2026-10-22 - Daily Windows builds of mpv and libmpv including ARM64 architecture.
@@ -99,7 +99,7 @@ A curated list of [awesome](https://github.com/topics/awesome) mpv resources.
 # Documentation
 
 * [Manual](https://mpv.io/manual/stable/)
-* [Wiki](https://github.com/mpv-player/mpv/wiki) ⭐ 37,525 | 🐛 1,167 | 🌐 C | 📅 2026-10-22
+* [Wiki](https://github.com/mpv-player/mpv/wiki) ⭐ 37,537 | 🐛 1,160 | 🌐 C | 📅 2026-10-23
 * [How to Use MPV on Windows](https://www.makeuseof.com/how-to-use-mpv-on-windows)
 * [mpv: The Best Video Player for Language Learning](https://www.youtube.com/watch?v=bbg6ztWecbU)
 * <https://wiki.archlinux.org/title/mpv>
@@ -107,22 +107,22 @@ A curated list of [awesome](https://github.com/topics/awesome) mpv resources.
 
 # Support
 
-* <https://github.com/mpv-player/mpv/issues> ⭐ 37,525 | 🐛 1,167 | 🌐 C | 📅 2026-10-22
-* <https://github.com/mpv-player/mpv/discussions> ⭐ 37,525 | 🐛 1,167 | 🌐 C | 📅 2026-10-22
+* <https://github.com/mpv-player/mpv/issues> ⭐ 37,537 | 🐛 1,160 | 🌐 C | 📅 2026-10-23
+* <https://github.com/mpv-player/mpv/discussions> ⭐ 37,537 | 🐛 1,160 | 🌐 C | 📅 2026-10-23
 * <https://mpv.io/community/>
 * <https://www.reddit.com/r/mpv>
 
 # User Script
 
 The most complete/up-to-date list of user scripts can be found
-in the [wiki](https://github.com/mpv-player/mpv/wiki/User-Scripts) ⭐ 37,525 | 🐛 1,167 | 🌐 C | 📅 2026-10-22,
+in the [wiki](https://github.com/mpv-player/mpv/wiki/User-Scripts) ⭐ 37,537 | 🐛 1,160 | 🌐 C | 📅 2026-10-23,
 the advantage of the following list is that everything is categorized
 into popular sections, like Subtitles etc.
 
 ## Menu
 
-* [select](https://github.com/mpv-player/mpv/blob/master/player/lua/select.lua) ⭐ 37,525 | 🐛 1,167 | 🌐 C | 📅 2026-10-22 - Menu script built into mpv.
-* [uosc](https://github.com/tomasklaen/uosc) ⭐ 3,462 | 🐛 32 | 🌐 Lua | 📅 2026-10-16 - Popular OSC with menu.
+* [select](https://github.com/mpv-player/mpv/blob/master/player/lua/select.lua) ⭐ 37,537 | 🐛 1,160 | 🌐 C | 📅 2026-10-23 - Menu script built into mpv.
+* [uosc](https://github.com/tomasklaen/uosc) ⭐ 3,464 | 🐛 32 | 🌐 Lua | 📅 2026-10-16 - Popular OSC with menu.
 * [command\_palette](https://github.com/stax76/mpv-scripts) ⭐ 231 | 🐛 9 | 🌐 Lua | 📅 2025-11-26 - Searchable menu for
   bindings, playlist, chapters, profiles, all tracks, audio tracks, video tracks,
   subtitle tracks, secondary subtitle tracks, subtitle lines, commands, properties,
@@ -131,7 +131,7 @@ into popular sections, like Subtitles etc.
 * [osm](https://github.com/stax76/mpv-scripts) ⭐ 231 | 🐛 9 | 🌐 Lua | 📅 2025-11-26 - Configurable on screen menu to run custom commands.
 * [menu-plugin](https://github.com/tsl0922/mpv-menu-plugin) ⭐ 206 | 🐛 11 | 🌐 C | 📅 2025-01-15 - Win32 context menu, file dialog, clipboard support for mpv on Windows.
 * [dyn\_menu](https://github.com/tsl0922/mpv-menu-plugin/blob/main/src/lua/dyn_menu.lua) ⭐ 206 | 🐛 11 | 🌐 C | 📅 2025-01-15 - Context Menu with support for defining the context menu in input.conf.
-* [mpvc-tui](https://github.com/gmt4/mpvc) ⭐ 161 | 🐛 1 | 🌐 Shell | 📅 2026-10-22 - Command-line and TUI for mpv.
+* [mpvc-tui](https://github.com/gmt4/mpvc) ⭐ 161 | 🐛 1 | 🌐 Shell | 📅 2026-10-23 - Command-line and TUI for mpv.
 * [M-x](https://github.com/Seme4eg/mpv-scripts/tree/master#m-x) ⭐ 71 | 🐛 2 | 🌐 Lua | 📅 2026-02-24 - Searchable and configurable menu to quickly find key bindings and commands.
 * [search-page](https://github.com/CogentRedTester/mpv-search-page) ⭐ 56 | 🐛 7 | 🌐 Lua | 📅 2023-01-16 - Searchable and configurable menu to quickly find key bindings, commands, options and properties.
 * [menu](https://github.com/jonniek/mpv-menu) ⭐ 55 | 🐛 3 | 🌐 Lua | 📅 2020-05-09 - Configurable on screen menu to run custom commands.
@@ -144,11 +144,11 @@ into popular sections, like Subtitles etc.
 
 ## Playback
 
-* [betterchapters](https://gist.github.com/Hakkin/4f978a5c87c31f7fe3ae) ([update](https://github.com/mpv-player/mpv/issues/4738#issuecomment-321298846) ⭐ 37,525 | 🐛 1,167 | 🌐 C | 📅 2026-10-22) - Loads the next or previous playlist entry if there are no more chapters in the seek direction.
-* [autoload](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autoload.lua) ⭐ 37,525 | 🐛 1,167 | 🌐 C | 📅 2026-10-22 - Automatically load playlist entries before and after the currently playing file, by scanning the directory. **Obsolete:** mpv now has a native `--autocreate-playlist` option.
-* [print-playlist](https://git.sr.ht/~jagrg/dotfiles/tree/master/item/common/.config/mpv/scripts/print-playlist.lua) - Cleans [the playlist formatting](https://github.com/mpv-player/mpv/issues/5868#issue-327675880) ⭐ 37,525 | 🐛 1,167 | 🌐 C | 📅 2026-10-22 on the terminal.
-* [playlistnoplayback](https://github.com/422658476/MPV-EASY-Player/blob/master/portable-data/scripts/playlistnoplayback.lua) ⭐ 1,452 | 🐛 1 | 🌐 Lua | 📅 2026-10-21 - If you enable the save play history and progress function, this lua script can solve the problem of automatically jumping to the previous playback progress when playing the next file when playing the playlist, that is, let the playlist always play the next file from the beginning every time. the limitations of this script, please see the comments section in the content.
-* [pause-indicator-lite](https://github.com/Samillion/ModernZ/tree/main/extras/pause-indicator-lite) ⭐ 1,309 | 🐛 28 | 🌐 Lua | 📅 2026-06-04 - A simple script that displays an indicator on pause, with options to adjust icon, color, height, width, opacity and whether to toggle pause with a keybind or not.
+* [betterchapters](https://gist.github.com/Hakkin/4f978a5c87c31f7fe3ae) ([update](https://github.com/mpv-player/mpv/issues/4738#issuecomment-321298846) ⭐ 37,537 | 🐛 1,160 | 🌐 C | 📅 2026-10-23) - Loads the next or previous playlist entry if there are no more chapters in the seek direction.
+* [autoload](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autoload.lua) ⭐ 37,537 | 🐛 1,160 | 🌐 C | 📅 2026-10-23 - Automatically load playlist entries before and after the currently playing file, by scanning the directory. **Obsolete:** mpv now has a native `--autocreate-playlist` option.
+* [print-playlist](https://git.sr.ht/~jagrg/dotfiles/tree/master/item/common/.config/mpv/scripts/print-playlist.lua) - Cleans [the playlist formatting](https://github.com/mpv-player/mpv/issues/5868#issue-327675880) ⭐ 37,537 | 🐛 1,160 | 🌐 C | 📅 2026-10-23 on the terminal.
+* [playlistnoplayback](https://github.com/422658476/MPV-EASY-Player/blob/master/portable-data/scripts/playlistnoplayback.lua) ⭐ 1,451 | 🐛 1 | 🌐 Lua | 📅 2026-10-21 - If you enable the save play history and progress function, this lua script can solve the problem of automatically jumping to the previous playback progress when playing the next file when playing the playlist, that is, let the playlist always play the next file from the beginning every time. the limitations of this script, please see the comments section in the content.
+* [pause-indicator-lite](https://github.com/Samillion/ModernZ/tree/main/extras/pause-indicator-lite) ⭐ 1,311 | 🐛 28 | 🌐 Lua | 📅 2026-06-04 - A simple script that displays an indicator on pause, with options to adjust icon, color, height, width, opacity and whether to toggle pause with a keybind or not.
 * [UndoRedo](https://github.com/Eisa01/mpv-scripts#undoredo) ⭐ 844 | 🐛 56 | 🌐 Lua | 📅 2025-06-21 - Undo and Redo feature for mpv. If you seek/jump to a different time in the video, press undo \[ctrl]+\[z] to linearly undo the seeks/jumps in the video, and press redo \[ctrl]+\[y] to linearly return to previous undo positions. More details in the link above.
 * [SimpleBookmark-1.0](https://github.com/Eisa01/mpv-scripts#simplebookmark) ⭐ 844 | 🐛 56 | 🌐 Lua | 📅 2025-06-21 - Bookmark with a \[ctrl]+\[b], then list and access your bookmarks with \[b]. Assign your favorites to a keybind then access your favorites with that same keybind. Much more explained in the link above.
 * [SimpleHistory-1.0](https://github.com/Eisa01/mpv-scripts#simplehistory) ⭐ 844 | 🐛 56 | 🌐 Lua | 📅 2025-06-21 - Powerful history features that logs videos that you opened into a log file along with the time you have reached on each video. Select, filter, and search from your history list, Optional resume by \[ctrl]+\[r] for all videos you have played. Much more explained in the link above.
@@ -167,7 +167,7 @@ into popular sections, like Subtitles etc.
 * [stats](https://github.com/Argon-/mpv-stats/) ⭐ 209 | 🐛 1 | 🌐 Lua | 📅 2018-12-09 - Display some statistics about the currently played file on-screen.
 * [censor](https://github.com/zenyd/mpv-scripts) ⭐ 192 | 🐛 1 | 🌐 Lua | 📅 2025-12-07 - Skip over parts of videos you don't want (others) to view
 * [speed-transition](https://github.com/zenyd/mpv-scripts) ⭐ 192 | 🐛 1 | 🌐 Lua | 📅 2025-12-07 - Increases playback speed if a subtitle will not be displayed soon. Resumes normal speed just before the subtitle shows up.
-* [reload](https://github.com/4e6/mpv-reload) ⭐ 154 | 🐛 0 | 🌐 Python | 📅 2026-10-07 - When an online video is stuck during buffering or got slow CDN source, restarting often helps. This script provides automatic reloading of videos that didn't have buffering progress for some time, keeping the current time position. It also adds `Ctrl+r` keybinding to reload video manually.
+* [reload](https://github.com/4e6/mpv-reload) ⭐ 155 | 🐛 0 | 🌐 Python | 📅 2026-10-07 - When an online video is stuck during buffering or got slow CDN source, restarting often helps. This script provides automatic reloading of videos that didn't have buffering progress for some time, keeping the current time position. It also adds `Ctrl+r` keybinding to reload video manually.
 * [bookmarker-menu](https://github.com/NurioHin/mpv-bookmarker) ⭐ 134 | 🐛 20 | 🌐 Lua | 📅 2021-01-27 - Menu to manage all your bookmarks.
 * [chapter-make-read](https://github.com/dyphire/mpv-scripts/blob/main/chapter-make-read.lua) ⭐ 129 | 🐛 1 | 🌐 Lua | 📅 2026-08-17 - Automatically read an load the namesake external chapter file with extension of CHP. Temporarily mark the current playback position as a chapter so you can seek to it later. Also allows writing current chapters as CHP or XML. Based on `createchapter`.
 * [track-list](https://github.com/dyphire/mpv-scripts/blob/main/track-list.lua) ⭐ 129 | 🐛 1 | 🌐 Lua | 📅 2026-08-17 - Interractive track-list menu.
@@ -177,9 +177,9 @@ into popular sections, like Subtitles etc.
 * [countdown](https://github.com/butterw/bShaders/blob/master/mpv/settings/scripts/countdown.lua) ⭐ 112 | 🐛 3 | 🌐 HLSL | 📅 2024-01-19 - Display a countdown on OSD for the final seconds of the video (or music file).
 * [nextfile](https://github.com/jonniek/mpv-nextfile) ⭐ 89 | 🐛 4 | 🌐 Lua | 📅 2023-08-09 - Force opens next or previous file in the currently playing files directory.
 * [recent](https://github.com/hacel/recent) ⭐ 85 | 🐛 6 | 🌐 Lua | 📅 2024-10-14 - Recently (history) played menu.
-* [chapters\_for\_mpv](https://github.com/mar04/chapters_for_mpv) ⭐ 83 | 🐛 4 | 🌐 Lua | 📅 2025-01-29 - Add, remove and edit chapters of the currently played media. Chapters you create can be saved into a separate text file and automatically loaded when you open the same media file again.
+* [chapters\_for\_mpv](https://github.com/mar04/chapters_for_mpv) ⭐ 84 | 🐛 4 | 🌐 Lua | 📅 2025-01-29 - Add, remove and edit chapters of the currently played media. Chapters you create can be saved into a separate text file and automatically loaded when you open the same media file again.
 * [skipchapters](https://github.com/haasn/gentoo-conf/blob/xor/home/nand/.mpv/scripts/avail/skipchapters.lua) ⚠️ Archived - Automatically skip chapters matching a given list of regular expressions (eg. "OP" or "Opening").
-* [skipsilence](https://github.com/ferreum/mpv-skipsilence) ⭐ 76 | 🐛 2 | 🌐 Lua | 📅 2025-09-06 - Increase playback speed during quiet parts of the file.
+* [skipsilence](https://github.com/ferreum/mpv-skipsilence) ⭐ 77 | 🐛 2 | 🌐 Lua | 📅 2025-09-06 - Increase playback speed during quiet parts of the file.
 * [chapters-menu](https://github.com/Seme4eg/mpv-scripts/tree/master#chapters-menu) ⭐ 71 | 🐛 2 | 🌐 Lua | 📅 2026-02-24 - List all chapters of current video, search and choose any.
 * [reload](https://github.com/dya-tel/mpv-scripts) ⭐ 71 | 🐛 2 | 🌐 Lua | 📅 2024-07-31 - Sometimes you have unstable internet connection, or YouTube server dies, or your computer was sleeping for too long, or whatever. The thing is: you were watching something, you lost the connection, MPV doesn't want to play it further, you don't want to find the video again and then seek it to the moment you were watching.
 * [skiptosilence detuur](https://github.com/detuur/mpv-scripts) ⭐ 66 | 🐛 6 | 🌐 Lua | 📅 2023-08-27 - Skips to the next silence in the file.
@@ -276,13 +276,13 @@ into popular sections, like Subtitles etc.
 
 ## On Screen Controller
 
-* [uosc](https://github.com/tomasklaen/uosc) ⭐ 3,462 | 🐛 32 | 🌐 Lua | 📅 2026-10-16 - Popular OSC with menu.
+* [uosc](https://github.com/tomasklaen/uosc) ⭐ 3,464 | 🐛 32 | 🌐 Lua | 📅 2026-10-16 - Popular OSC with menu.
 
-* [osd-bar](https://github.com/422658476/MPV-EASY-Player/blob/master/portable-data/scripts/osd-bar.lua) ⭐ 1,452 | 🐛 1 | 🌐 Lua | 📅 2026-10-21 - Always show osd progress bar, with the more beautiful color matching in the [configuration file](https://github.com/422658476/MPV-EASY-Player/blob/master/mpv-easy-data/rjno1.conf) ⭐ 1,452 | 🐛 1 | 🌐 Lua | 📅 2026-10-21, you can make the osd progress bar display the current progress at the bottom of the window beautifully,this is a [preview](https://raw.githubusercontent.com/422658476/MPV-EASY-Player/master/img/mpv-easy-player-osd-bar-lua.jpg).
+* [osd-bar](https://github.com/422658476/MPV-EASY-Player/blob/master/portable-data/scripts/osd-bar.lua) ⭐ 1,451 | 🐛 1 | 🌐 Lua | 📅 2026-10-21 - Always show osd progress bar, with the more beautiful color matching in the [configuration file](https://github.com/422658476/MPV-EASY-Player/blob/master/mpv-easy-data/rjno1.conf) ⭐ 1,451 | 🐛 1 | 🌐 Lua | 📅 2026-10-21, you can make the osd progress bar display the current progress at the bottom of the window beautifully,this is a [preview](https://raw.githubusercontent.com/422658476/MPV-EASY-Player/master/img/mpv-easy-player-osd-bar-lua.jpg).
 
-* [osc-style](https://github.com/422658476/MPV-EASY-Player/tree/master/mpv-easy-data/osc-style) ⭐ 1,452 | 🐛 1 | 🌐 Lua | 📅 2026-10-21 - Change the mpv OSC to a more beautiful and practical look, which is the osc theme feature, a variety of styles to choose from,this is a [tutorial and a preview](https://github.com/422658476/MPV-EASY-Player#%E7%9C%8B%E5%88%B0%E4%B8%8A%E9%9D%A2%E5%9B%BE%E4%B8%8A%E8%BF%99%E4%BA%9Bosc%E6%A0%B7%E5%BC%8F%E4%BA%86%E5%90%97%E5%AE%83%E4%BB%AC%E4%B8%8D%E4%BB%85%E5%8F%AF%E4%BB%A5%E5%AD%98%E5%9C%A8%E4%BA%8Empv-easy-player%E4%B8%AD%E4%BD%A0%E4%BD%BF%E7%94%A8%E7%9A%84mpv%E7%9A%84osc%E4%B9%9F%E5%8F%AF%E4%BB%A5%E5%8F%98%E6%88%90%E8%BF%99%E6%A0%B7) ⭐ 1,452 | 🐛 1 | 🌐 Lua | 📅 2026-10-21.
+* [osc-style](https://github.com/422658476/MPV-EASY-Player/tree/master/mpv-easy-data/osc-style) ⭐ 1,451 | 🐛 1 | 🌐 Lua | 📅 2026-10-21 - Change the mpv OSC to a more beautiful and practical look, which is the osc theme feature, a variety of styles to choose from,this is a [tutorial and a preview](https://github.com/422658476/MPV-EASY-Player#%E7%9C%8B%E5%88%B0%E4%B8%8A%E9%9D%A2%E5%9B%BE%E4%B8%8A%E8%BF%99%E4%BA%9Bosc%E6%A0%B7%E5%BC%8F%E4%BA%86%E5%90%97%E5%AE%83%E4%BB%AC%E4%B8%8D%E4%BB%85%E5%8F%AF%E4%BB%A5%E5%AD%98%E5%9C%A8%E4%BA%8Empv-easy-player%E4%B8%AD%E4%BD%A0%E4%BD%BF%E7%94%A8%E7%9A%84mpv%E7%9A%84osc%E4%B9%9F%E5%8F%AF%E4%BB%A5%E5%8F%98%E6%88%90%E8%BF%99%E6%A0%B7) ⭐ 1,451 | 🐛 1 | 🌐 Lua | 📅 2026-10-21.
 
-* [ModernZ](https://github.com/Samillion/ModernZ) ⭐ 1,309 | 🐛 28 | 🌐 Lua | 📅 2026-06-04 - A fork of ModernX designed to enhance functionality by adding more features, all while preserving the core standards of mpv's OSC.
+* [ModernZ](https://github.com/Samillion/ModernZ) ⭐ 1,311 | 🐛 28 | 🌐 Lua | 📅 2026-06-04 - A fork of ModernX designed to enhance functionality by adding more features, all while preserving the core standards of mpv's OSC.
 
 * [ModernX cyl0](https://github.com/cyl0/ModernX) ⭐ 769 | 🐛 21 | 🌐 Lua | 📅 2026-02-04 - Modern OSC replacement.
 
@@ -338,7 +338,7 @@ into popular sections, like Subtitles etc.
 * [cheatsheet](https://github.com/ento/mpv-cheatsheet) ⭐ 61 | 🐛 1 | 🌐 JavaScript | 📅 2024-06-03 - Looking up keyboard shortcuts (bindings).
 * [multisocket](https://github.com/AN3223/dotfiles/blob/master/.config/mpv/scripts/multisocket.lua) ⭐ 48 | 🐛 4 | 🌐 C | 📅 2026-04-02 - Creates a numbered socket for each instance of mpv.
 * [gestures](https://github.com/omeryagmurlu/mpv-gestures) ⭐ 38 | 🐛 1 | 🌐 Lua | 📅 2022-09-04 - Touchscreen and mouse gestures.
-* [russian-layout-bindings](https://github.com/zenwarr/mpv-config/blob/master/scripts/russian-layout-bindings.lua) ⭐ 35 | 🐛 3 | 🌐 Lua | 📅 2025-11-16 - As mpv does not support shortcuts independent of the keyboard layout (<https://github.com/mpv-player/mpv/issues/351> ⭐ 37,525 | 🐛 1,167 | 🌐 C | 📅 2026-10-22), this script tries to workaround this issue for some limited cases with russian (йцукен) keyboard layout. Upon startup, it takes currently active bindings from `input-bindings` property and duplicates them for russian layout. You can adapt the script for your preferred layout, but it won't (of course) work for layouts sharing unicode characters with english.
+* [russian-layout-bindings](https://github.com/zenwarr/mpv-config/blob/master/scripts/russian-layout-bindings.lua) ⭐ 35 | 🐛 3 | 🌐 Lua | 📅 2025-11-16 - As mpv does not support shortcuts independent of the keyboard layout (<https://github.com/mpv-player/mpv/issues/351> ⭐ 37,537 | 🐛 1,160 | 🌐 C | 📅 2026-10-23), this script tries to workaround this issue for some limited cases with russian (йцукен) keyboard layout. Upon startup, it takes currently active bindings from `input-bindings` property and duplicates them for russian layout. You can adapt the script for your preferred layout, but it won't (of course) work for layouts sharing unicode characters with english.
 * [touch-gestures](https://github.com/christoph-heinrich/mpv-touch-gestures) ⭐ 30 | 🐛 1 | 🌐 Lua | 📅 2023-02-03 - Gestures for play/pause, speed, volume, seeking and next/previous playlist-item.
 * [audio-file-keys](https://github.com/fbriere/mpv-scripts/blob/master/scripts/audio-file-keys.lua) ⭐ 30 | 🐛 2 | 🌐 Lua | 📅 2022-02-16 - Automatically apply key bindings when playing audio files.
 * [pointer-event](https://github.com/christoph-heinrich/mpv-pointer-event) ⭐ 14 | 🐛 0 | 🌐 Lua | 📅 2023-02-03 - Mutually exclusive, low latency mouse/touch input event detection. Executes configurable commands on single-click, double-click, long-click and dragging.
@@ -348,7 +348,7 @@ into popular sections, like Subtitles etc.
 
 ## Subtitle
 
-* [autosub](https://github.com/davidde/mpv-autosub) ⭐ 381 | 🐛 22 | 🌐 Lua | 📅 2023-12-24 - Automatic subtitle downloading.
+* [autosub](https://github.com/davidde/mpv-autosub) ⭐ 382 | 🐛 22 | 🌐 Lua | 📅 2023-12-24 - Automatic subtitle downloading.
 * [playphrase](https://github.com/kelciour/playphrase) ⚠️ Archived - Search and play phrases from movies and audiobooks.
 * [autosubsync](https://github.com/joaquintorres/autosubsync-mpv) ⭐ 194 | 🐛 7 | 🌐 Lua | 📅 2026-05-17 - Automatically sync subtitles using **ffsubsync**.
 * [subselect Tk](https://github.com/zenyd/mpv-scripts) ⭐ 192 | 🐛 1 | 🌐 Lua | 📅 2025-12-07 - Download subtitles with a GUI - select the one you want and automatically load them up in mpv. Supports searching for arbitrary names and different subtitle languages. Works on Windows and Linux, possibly macOS.
@@ -384,7 +384,7 @@ into popular sections, like Subtitles etc.
 * [dualsubs utils](https://github.com/VimWei/mpv-config) ⭐ 22 | 🐛 0 | 🌐 Lua | 📅 2026-05-20 - Auto load dual subs; Auto reload dual subs; Swap primary/secondary subs position; Merge dual subs to one ASS sub.
 * [srt-resegment](https://github.com/VimWei/mpv-config/blob/main/scripts/srt-resegment.lua) ⭐ 22 | 🐛 0 | 🌐 Lua | 📅 2026-05-20 - Resegment srt by synchronize plain text with whisper's word-level timestamps JSON.
 * [trueautosub](https://github.com/fullmetalsheep/mpv-iina-scripts) ⭐ 19 | 🐛 0 | 🌐 Lua | 📅 2018-10-15 - Fork of autosub, automatically downloads subtitles if not present using **subliminal**. (osx/linux only)
-* [llm-subtrans](https://github.com/sorz/mpv-llm-subtrans/) ⭐ 17 | 🐛 0 | 🌐 Python | 📅 2025-04-07 - Extract & translate subtitles with OpenAI API. Streaming & contextual.
+* [llm-subtrans](https://github.com/sorz/mpv-llm-subtrans/) ⭐ 18 | 🐛 0 | 🌐 Python | 📅 2025-04-07 - Extract & translate subtitles with OpenAI API. Streaming & contextual.
 * [ytsub](https://github.com/Idlusen/mpv-ytsub/) ⭐ 14 | 🐛 2 | 🌐 Lua | 📅 2026-08-12 - Load automatic captions from Youtube, can select language interactively or automatically.
 * [sub-assrt by dyphire](https://github.com/dyphire/mpv-sub-assrt) ⭐ 12 | 🐛 1 | 🌐 Lua | 📅 2026-04-30 - Download Chinese subtitles from assrt.
 * [intersubs](https://github.com/abdnh/intersubs) ⭐ 12 | 🐛 3 | 🌐 Python | 📅 2023-08-20 - Interactive subtitles.
@@ -400,7 +400,7 @@ into popular sections, like Subtitles etc.
 
 ## Learning
 
-* [mpvacious](https://github.com/Ajatt-Tools/mpvacious) ⭐ 893 | 🐛 12 | 🌐 Lua | 📅 2026-10-21 - Add keybindings to create Anki flashcards for (language) learning.
+* [mpvacious](https://github.com/Ajatt-Tools/mpvacious) ⭐ 894 | 🐛 12 | 🌐 Lua | 📅 2026-10-23 - Add keybindings to create Anki flashcards for (language) learning.
 * [interSubs](https://github.com/oltodosel/interSubs) ⭐ 265 | 🐛 3 | 🌐 Python | 📅 2025-03-18 - Interactive subtitles, instantly translate selected word/sentence.
 * [subs2srs](https://github.com/kelciour/mpv-scripts/blob/master/subs2srs.lua) ⚠️ Archived - Automatically add new card in Anki with audio, picture and text.
 * [sub-voracious](https://github.com/kelciour/mpv-scripts/blob/master/sub-voracious.lua) ⚠️ Archived - Reading and listening practice.
@@ -421,7 +421,7 @@ into popular sections, like Subtitles etc.
 
 ## Audio
 
-* [acompressor](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/acompressor.lua) ⭐ 37,525 | 🐛 1,167 | 🌐 C | 📅 2026-10-22 - Dynamic range compressor using acompressor ffmpeg filter with controls to dynamically adjust parameters.
+* [acompressor](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/acompressor.lua) ⭐ 37,537 | 🐛 1,160 | 🌐 C | 📅 2026-10-23 - Dynamic range compressor using acompressor ffmpeg filter with controls to dynamically adjust parameters.
 * [smart-volume](https://github.com/stax76/mpv-scripts) ⭐ 231 | 🐛 9 | 🌐 Lua | 📅 2025-11-26 - Replay gain alternative.
 * [visualizer](https://github.com/mfcc64/mpv-scripts/blob/master/visualizer.lua) ⭐ 208 | 🐛 18 | 🌐 Lua | 📅 2025-11-07 - Various audio visualizations.
 * [firequalizer15](https://github.com/mfcc64/mpv-scripts/blob/master/firequalizer15.lua) ⭐ 208 | 🐛 18 | 🌐 Lua | 📅 2025-11-07 - Linear phase 15-bands equalizer.
@@ -465,13 +465,13 @@ into popular sections, like Subtitles etc.
 * [youtube-queue](https://github.com/ksyasuda/mpv-youtube-queue) ⭐ 18 | 🐛 0 | 🌐 Lua | 📅 2026-03-09 - Implements the YouTube 'Add to Queue' functionality. Allows adding video urls to the queue from the clipboard, and provides a menu for interacting with the queue.
 * [btfs-stream](https://github.com/noctuid/mpv-btfs-stream) ⭐ 17 | 🐛 1 | 🌐 Lua | 📅 2021-07-16 - Allows streaming torrents using btfs. As far as I can tell, it is much simpler than the above scripts (no long shell script execution) and much more configurable (the other scripts have no settings). This is much slower than using webtorrent though, so I recommend using webtorrent-hook instead.
 * [reduce\_stream\_cache](https://github.com/divout/mpv_reduce_stream_cache) ⭐ 13 | 🐛 0 | 🌐 JavaScript | 📅 2023-11-02 - Reduces MPV cache for streams by increasing playback speed. Works with Twitch through Streamlink.
-* [confluence](https://github.com/ftk/mpv-confluence) ⭐ 12 | 🐛 3 | 🌐 Lua | 📅 2023-11-19 - Open magnet links using [confluence](https://github.com/anacrolix/confluence) ⭐ 265 | 🐛 6 | 🌐 Go | 📅 2025-07-23 HTTP service. Recommended to use [modified script](https://github.com/ftk/mpv-confluence/tree/torrserver) ⭐ 12 | 🐛 3 | 🌐 Lua | 📅 2023-11-19 for [TorrServer](https://github.com/YouROK/TorrServer) ⭐ 3,148 | 🐛 29 | 🌐 Go | 📅 2026-10-22 instead.
+* [confluence](https://github.com/ftk/mpv-confluence) ⭐ 12 | 🐛 3 | 🌐 Lua | 📅 2023-11-19 - Open magnet links using [confluence](https://github.com/anacrolix/confluence) ⭐ 265 | 🐛 6 | 🌐 Go | 📅 2025-07-23 HTTP service. Recommended to use [modified script](https://github.com/ftk/mpv-confluence/tree/torrserver) ⭐ 12 | 🐛 3 | 🌐 Lua | 📅 2023-11-19 for [TorrServer](https://github.com/YouROK/TorrServer) ⭐ 3,151 | 🐛 29 | 🌐 Go | 📅 2026-10-23 instead.
 * [spotify](https://github.com/olivierlemoal/mpv-spotify-script) ⚠️ Archived - Add current playing title to an user defined Spotify playlist.
 * [btfs-hook](https://github.com/aitet/mpv-btfs-hook) ⭐ 10 | 🐛 1 | 🌐 Lua | 📅 2023-08-06 - Allows streaming torrents using FUSE via btfs.
 * [peerflix-hook](https://github.com/noctuid/mpv-peerflix-hook) ⚠️ Archived - Stream magnet links in mpv with peerflix.
-* [torrserver](https://github.com/kritma/mpv-torrserver) ⭐ 9 | 🐛 0 | 🌐 Lua | 📅 2024-02-05 - Allows streaming torrents using [TorrServer](https://github.com/YouROK/TorrServer) ⭐ 3,148 | 🐛 29 | 🌐 Go | 📅 2026-10-22. Support magnet links and .torrent files
+* [torrserver](https://github.com/kritma/mpv-torrserver) ⭐ 9 | 🐛 0 | 🌐 Lua | 📅 2024-02-05 - Allows streaming torrents using [TorrServer](https://github.com/YouROK/TorrServer) ⭐ 3,151 | 🐛 29 | 🌐 Go | 📅 2026-10-23. Support magnet links and .torrent files
 * [last.fm scrobbler](https://github.com/MugoSquero/mpv_scrobbler) ⭐ 9 | 🐛 1 | 🌐 Lua | 📅 2026-09-04 - Sends the information about playing tracks to [last.fm](http://last.fm/), see <http://www.last.fm/help/faq?category=99> for more info.
-* [torrserver-hook](https://github.com/eNV25/mpv-torrserver-hook) ⭐ 6 | 🐛 0 | 🌐 Lua | 📅 2026-06-07 - Allows for playback of media from the BitTorrent network using [TorrServer](https://github.com/YouROK/TorrServer) ⭐ 3,148 | 🐛 29 | 🌐 Go | 📅 2026-10-22.
+* [torrserver-hook](https://github.com/eNV25/mpv-torrserver-hook) ⭐ 6 | 🐛 0 | 🌐 Lua | 📅 2026-06-07 - Allows for playback of media from the BitTorrent network using [TorrServer](https://github.com/YouROK/TorrServer) ⭐ 3,151 | 🐛 29 | 🌐 Go | 📅 2026-10-23.
 * [yledl](https://github.com/pekkarr/mpv-yledl) ⭐ 6 | 🐛 1 | 🌐 Lua | 📅 2021-05-14 - Watch videos from YLE Areena in mpv using yle-dl
 * [sopcast](https://github.com/Akemi/mpv-sopcast-hook) ⭐ 4 | 🐛 0 | 🌐 Lua | 📅 2017-01-23 - Adds support for sop\:// urls.
 * [sponsorblock\_minimal](https://codeberg.org/jouni/mpv_sponsorblock_minimal) - More simple version of the sponsorblock script.
@@ -483,14 +483,14 @@ into popular sections, like Subtitles etc.
 
 ## Video
 
-* [autocrop](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autocrop.lua) ⭐ 37,525 | 🐛 1,167 | 🌐 C | 📅 2026-10-22 - Automatically crop the video by using lavfi's cropdetect filter to detect black bars.
-* [autodeint](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autodeint.lua) ⭐ 37,525 | 🐛 1,167 | 🌐 C | 📅 2026-10-22 - Automatically deinterlace the video by using lavfi's idet filter to detect interlaced content.
-* [cycle-deinterlace-pullup](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/cycle-deinterlace-pullup.lua) ⭐ 37,525 | 🐛 1,167 | 🌐 C | 📅 2026-10-22 - Cycle between deinterlacing, pullup (IVTC), and both filters off.
-* [use-cpu](https://github.com/422658476/MPV-EASY-Player/blob/master/portable-data/scripts/use-cpu.lua) ⭐ 1,452 | 🐛 1 | 🌐 Lua | 📅 2026-10-21 - If the width of the video is greater than 3000 or the height of the video is greater than 2000, it will automatically switch back to using cpu decoding.
+* [autocrop](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autocrop.lua) ⭐ 37,537 | 🐛 1,160 | 🌐 C | 📅 2026-10-23 - Automatically crop the video by using lavfi's cropdetect filter to detect black bars.
+* [autodeint](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autodeint.lua) ⭐ 37,537 | 🐛 1,160 | 🌐 C | 📅 2026-10-23 - Automatically deinterlace the video by using lavfi's idet filter to detect interlaced content.
+* [cycle-deinterlace-pullup](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/cycle-deinterlace-pullup.lua) ⭐ 37,537 | 🐛 1,160 | 🌐 C | 📅 2026-10-23 - Cycle between deinterlacing, pullup (IVTC), and both filters off.
+* [use-cpu](https://github.com/422658476/MPV-EASY-Player/blob/master/portable-data/scripts/use-cpu.lua) ⭐ 1,451 | 🐛 1 | 🌐 Lua | 📅 2026-10-21 - If the width of the video is greater than 3000 or the height of the video is greater than 2000, it will automatically switch back to using cpu decoding.
 * [crop](https://github.com/occivink/mpv-scripts#croplua) ⭐ 492 | 🐛 43 | 🌐 Lua | 📅 2025-11-01 - Crop the video by defining the target rectangle with the cursor.
 * [blur-edges](https://github.com/occivink/mpv-scripts#blur-edgeslua) ⭐ 492 | 🐛 43 | 🌐 Lua | 📅 2025-11-01 - Replace black bars with a blurry copy of the video.
 * [cycle-video-rotate](https://github.com/VideoPlayerCode/mpv-tools/) ⭐ 192 | 🐛 3 | 🌐 JavaScript | 📅 2021-07-07 - Allows you to perform video rotation which perfectly cycles through all 360 degrees without any glitches.
-* [dynamic-crop](https://github.com/Ashyni/mpv-scripts#dynamic-croplua) ⭐ 133 | 🐛 5 | 🌐 Lua | 📅 2024-09-14 - Dynamically crop the video by using lavfi's cropdetect filter to detect hard-coded black bars for Ultra Wide Screen (21:9) or any screen different from 16:9 (phone/old TV).
+* [dynamic-crop](https://github.com/Ashyni/mpv-scripts#dynamic-croplua) ⭐ 134 | 🐛 5 | 🌐 Lua | 📅 2024-09-14 - Dynamically crop the video by using lavfi's cropdetect filter to detect hard-coded black bars for Ultra Wide Screen (21:9) or any screen different from 16:9 (phone/old TV).
 * [hdr-mode](https://github.com/dyphire/mpv-scripts/blob/main/hdr-mode.lua) ⭐ 129 | 🐛 1 | 🌐 Lua | 📅 2026-08-17 - Automatically switches the display's SDR and HDR modes for HDR passthrough based on the content of the video being played.
 * [store-shaders](https://github.com/butterw/bShaders/blob/master/mpv/settings/scripts/store-shaders.js) ⭐ 112 | 🐛 3 | 🌐 HLSL | 📅 2024-01-19 - Store current glsl-shaders config on first run, this config will then be restored by subsequent calls.
 * [switch-shader](https://github.com/butterw/bShaders/blob/master/mpv/settings/scripts/switch-shader.js) ⭐ 112 | 🐛 3 | 🌐 HLSL | 📅 2024-01-19 - Provides a switch to disable/restore shaders and vf filters.
@@ -526,20 +526,20 @@ into popular sections, like Subtitles etc.
 
 ## Image
 
-* [thumbfast](https://github.com/po5/thumbfast) ⭐ 1,736 | 🐛 57 | 🌐 Lua | 📅 2026-08-12 - High-performance on-the-fly thumbnailer for mpv.
+* [thumbfast](https://github.com/po5/thumbfast) ⭐ 1,739 | 🐛 57 | 🌐 Lua | 📅 2026-08-12 - High-performance on-the-fly thumbnailer for mpv.
 * [image-viewer](https://github.com/occivink/mpv-image-viewer) ⭐ 367 | 🐛 18 | 🌐 Lua | 📅 2024-11-23 - Configuration, scripts and tips for using mpv as an image viewer.
 * [contact-sheet](https://github.com/occivink/mpv-gallery-view) ⭐ 259 | 🐛 27 | 🌐 Lua | 📅 2024-09-27 - Display thumbnails of the current file in the style of a contact sheet.
 * [auto-mode](https://github.com/stax76/mpv-scripts) ⭐ 231 | 🐛 9 | 🌐 Lua | 📅 2025-11-26 - Use mpv as video player, music player and image viewer, switch automatically between, video, audio and image mode.
-* [screenshotfolder](https://github.com/zydezu/mpvconfig/blob/main/scripts/screenshotfolder.lua) ⭐ 113 | 🐛 0 | 🌐 Lua | 📅 2026-10-12 - Place screenshots into folders for each video, along with timestamping them.
+* [screenshotfolder](https://github.com/zydezu/mpvconfig/blob/main/scripts/screenshotfolder.lua) ⭐ 113 | 🐛 0 | 🌐 Lua | 📅 2026-10-23 - Place screenshots into folders for each video, along with timestamping them.
 * [crop\_script](https://github.com/TheAMM/mpv_crop_script) ⭐ 100 | 🐛 3 | 🌐 Python | 📅 2020-02-21 - Take cropped screenshots.
 * [clipshot](https://github.com/ObserverOfTime/mpv-scripts/blob/master/clipshot.lua) ⭐ 55 | 🐛 1 | 🌐 Lua | 📅 2025-06-28 - Screenshot the video (with subs, without subs or the whole window) and copy it to the clipboard. For Windows, Linux/BSD and MacOs
 * [gif-generator](https://github.com/the-honey/mpv-gif-generator) ⭐ 54 | 🐛 8 | 🌐 Lua | 📅 2022-01-26 - Creates animated gifs using hotkeys.
-* [gallery-dl\_hook](https://github.com/jgreco/mpv-scripts/blob/master/gallery-dl_hook.lua) ⭐ 46 | 🐛 3 | 🌐 Lua | 📅 2019-10-10 - Load online image galleries (imgur, etc) as playlists using [gallery-dl](https://github.com/mikf/gallery-dl/) ⭐ 20,194 | 🐛 1,078 | 🌐 Python | 📅 2026-10-17.
+* [gallery-dl\_hook](https://github.com/jgreco/mpv-scripts/blob/master/gallery-dl_hook.lua) ⭐ 46 | 🐛 3 | 🌐 Lua | 📅 2019-10-10 - Load online image galleries (imgur, etc) as playlists using [gallery-dl](https://github.com/mikf/gallery-dl/) ⭐ 20,212 | 🐛 1,079 | 🌐 Python | 📅 2026-10-23.
 * [screenshot-to-clipboard](https://github.com/zc62/mpv-scripts/blob/master/screenshot-to-clipboard.js) ⭐ 43 | 🐛 0 | 🌐 Lua | 📅 2020-08-28 - Takes a screenshot and saves it to the clipboard.
 * [screenshot-mosaic](https://github.com/noaione/mpv-js-scripts) ⭐ 43 | 🐛 4 | 🌐 TypeScript | 📅 2026-05-22 - Create a mosaic/thumbnail image.
 * [waifu2x](https://github.com/jonniek/mpv-waifu2x) ⭐ 36 | 🐛 0 | 🌐 Lua | 📅 2019-11-17 - Take screenshot and convert images with waifu2x.
 * [image-config](https://github.com/guidocella/mpv-image-config) ⭐ 35 | 🐛 0 | 🌐 Lua | 📅 2026-09-26 - A configuration to use mpv as an image viewer.
-* [gallery-dl-view](https://github.com/noctuid/gallery-dl-view) ⭐ 26 | 🐛 1 | 🌐 Clojure | 📅 2026-03-19 - Load image galleries directly in mpv like gallery-dl\_hook but with extra functionality like binding a key to download images, optionally only loading images that are new since the gallery was last opened, and more.
+* [gallery-dl-view](https://github.com/noctuid/gallery-dl-view) ⭐ 27 | 🐛 1 | 🌐 Clojure | 📅 2026-03-19 - Load image galleries directly in mpv like gallery-dl\_hook but with extra functionality like binding a key to download images, optionally only loading images that are new since the gallery was last opened, and more.
 * [webp-avif-generator](https://github.com/outlook84/mpv-webp-avif-generator) ⭐ 18 | 🐛 0 | 🌐 Lua | 📅 2026-05-01 - Creates animated webp/avif using mpv A-B loop and FFmpeg. (Support Windows and Linux)
 * [webp-generator](https://github.com/DonCanjas/mpv-webp-generator) ⭐ 16 | 🐛 2 | 🌐 Lua | 📅 2022-04-28 - Creates animated webp using mpv hotkeys. (Windows only)
 * [gallery-screenshots](https://github.com/XeinyX/mpv_gallery-screenshots) ⭐ 11 | 🐛 0 | 🌐 Lua | 📅 2025-09-22 - In‑player tiled screenshot gallery that turns your screenshots into visual bookmarks for fast navigation. Click thumbnails to jump instantly. Export screenshots to contact sheets (PNG), CSV, and Excel table XLSX.
@@ -549,9 +549,9 @@ into popular sections, like Subtitles etc.
 
 ## Video Editing
 
-* [videoclip](https://github.com/Ajatt-Tools/videoclip) ⭐ 205 | 🐛 7 | 🌐 Lua | 📅 2026-10-19 - Create video and audio clips.
+* [videoclip](https://github.com/Ajatt-Tools/videoclip) ⭐ 205 | 🐛 8 | 🌐 Lua | 📅 2026-10-19 - Create video and audio clips.
 * [sub-cut](https://github.com/kelciour/mpv-scripts/blob/master/sub-cut.lua) ⚠️ Archived - Extract a part of the video as audio or video with subtitles.
-* [cut zydezu](https://github.com/zydezu/mpvconfig/blob/main/scripts/mpvcut.lua) ⭐ 113 | 🐛 0 | 🌐 Lua | 📅 2026-10-12 - Easily clip, compress and re-encode selected clips.
+* [cut zydezu](https://github.com/zydezu/mpvconfig/blob/main/scripts/mpvcut.lua) ⭐ 113 | 🐛 0 | 🌐 Lua | 📅 2026-10-23 - Easily clip, compress and re-encode selected clips.
 * [trim](https://github.com/aerobounce/trim.lua) ⭐ 101 | 🐛 3 | 🌐 Lua | 📅 2024-05-20 - Trim clips without transcoding.
 * [easycrop](https://github.com/aidanholm/mpv-easycrop) ⭐ 88 | 🐛 4 | 🌐 Lua | 📅 2018-01-23 - Cropping videos with ease.
 * [slicing](https://github.com/Kagami/mpv_slicing) ⭐ 86 | 🐛 8 | 🌐 Lua | 📅 2024-04-12 - Cut uncompressed fragments of the video.
@@ -571,14 +571,14 @@ into popular sections, like Subtitles etc.
 * [youtube-chat](https://github.com/BanchouBoo/mpv-youtube-chat) ⭐ 59 | 🐛 3 | 🌐 Lua | 📅 2026-09-26 - Overlays YouTube chat on top of a video using yt-dlp.
 * [mpv-rpc](https://github.com/ryze312/mpv-rpc) ⚠️ Archived - Discord Rich Presence integration. Also displays cover art from MusicBrainz archive.
 * [twitch-chat-irc](https://github.com/morrah/mpv-twitch-chat-irc) ⭐ 28 | 🐛 1 | 🌐 Python | 📅 2024-03-03 - Show Twitch chat messages as subtitles when watching Twitch LIVE.
-* [cord](https://github.com/yutotakano/mpvcord) ⭐ 15 | 🐛 6 | 🌐 Lua | 📅 2021-09-27 - Discord integration for mpv, using the Game SDK instead of Discord RPC. Supports: MacOS and Windows. (Linux is not supported by Game SDK)
+* [cord](https://github.com/yutotakano/mpvcord) ⭐ 16 | 🐛 6 | 🌐 Lua | 📅 2021-09-27 - Discord integration for mpv, using the Game SDK instead of Discord RPC. Supports: MacOS and Windows. (Linux is not supported by Game SDK)
 * [irc](https://github.com/po5/mpv_irc) ⭐ 9 | 🐛 2 | 🌐 Lua | 📅 2020-09-29 - Displays lines from an irc channel.
 * [LoadDanmaku](https://github.com/huisedenanhai/LoadDanmaku) ⭐ 5 | 🐛 1 | 🌐 Lua | 📅 2020-02-24 - Load local damaku files.
 
 ## Configuration
 
 * [auto-keep-gui-open](https://github.com/VideoPlayerCode/mpv-tools/) ⭐ 192 | 🐛 3 | 🌐 JavaScript | 📅 2021-07-07 - Intelligently switches mpv's "keep-open" behavior based on whether you are running in video-mode or audio-only mode.
-* [persist-properties](https://github.com/d87/mpv-persist-properties) ⭐ 100 | 🐛 1 | 🌐 Lua | 📅 2022-11-15 - Keep selected property values (like volume) between player sessions.
+* [persist-properties](https://github.com/d87/mpv-persist-properties) ⭐ 101 | 🐛 1 | 🌐 Lua | 📅 2022-11-15 - Keep selected property values (like volume) between player sessions.
 * [remember-props](https://github.com/zenwarr/mpv-config/blob/master/scripts/remember-props.lua) ⭐ 35 | 🐛 3 | 🌐 Lua | 📅 2025-11-16 - When a property changes, it saves it to restore on next start. Saved values are not file-specific. List of properties to save is configured in `script-opts/remember-props.conf` file.
 * [celebi](https://github.com/po5/celebi) ⭐ 15 | 🐛 3 | 🌐 Lua | 📅 2023-10-28 - An optimized script to restore properties from past sessions. Alternative to persist-properties and remember-props scripts.
 * [config-saver](https://github.com/Static39/mpv-scripts/tree/main/config-saver) ⭐ 5 | 🐛 0 | 🌐 Lua | 📅 2022-10-04 - Saves current audio track, subtitle track, subtitle position, etc. for all videos in the folder.
@@ -588,16 +588,16 @@ into popular sections, like Subtitles etc.
 ## Library
 
 * [extended-menu](https://github.com/Seme4eg/mpv-scripts/tree/master/script-modules) ⭐ 71 | 🐛 2 | 🌐 Lua | 📅 2026-02-24 - API to create a searchable menu (command palette).
-* [osc-framework](https://github.com/maoiscat/mpv-osc-framework) ⭐ 60 | 🐛 1 | 🌐 Lua | 📅 2026-08-23 - OSC framework to help build your custom OSC.
+* [osc-framework](https://github.com/maoiscat/mpv-osc-framework) ⭐ 61 | 🐛 1 | 🌐 Lua | 📅 2026-08-23 - OSC framework to help build your custom OSC.
 * [user-input](https://github.com/CogentRedTester/mpv-user-input) ⭐ 58 | 🐛 1 | 🌐 Lua | 📅 2023-12-27 - API to request text user input.
 * [scroll-list](https://github.com/CogentRedTester/mpv-scroll-list) ⭐ 48 | 🐛 3 | 🌐 Lua | 📅 2025-01-10 - API to create interactive scrollable lists
 
 ## Other
 
-* [ontop-playback](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/ontop-playback.lua) ⭐ 37,525 | 🐛 1,167 | 🌐 C | 📅 2026-10-22 - Disables the ontop property when pausing, and enables it again when unpausing the video, if it was disabled. Change it only when the player is not in fullscreen to prevent screen flickering.
-* [pause-when-minimize](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/pause-when-minimize.lua) ⭐ 37,525 | 🐛 1,167 | 🌐 C | 📅 2026-10-22 - Pauses the player video when minimizing, and unpauses it when brought up again.
-* [single-instance](https://github.com/mpv-player/mpv/issues/43#issuecomment-2496083283) ⭐ 37,525 | 🐛 1,167 | 🌐 C | 📅 2026-10-22 - Reuse the existing mpv window when opening new files rather than spawning a new window.
-* [local-language](https://github.com/422658476/MPV-EASY-Player/blob/master/portable-data/scripts/local-language.lua) ⭐ 1,452 | 🐛 1 | 🌐 Lua | 📅 2026-10-21 - Let the text displayed by osd become the language you are most familiar with, that is, language localization, such as 【volume: 100%】 becomes 【音量:100%】.
+* [ontop-playback](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/ontop-playback.lua) ⭐ 37,537 | 🐛 1,160 | 🌐 C | 📅 2026-10-23 - Disables the ontop property when pausing, and enables it again when unpausing the video, if it was disabled. Change it only when the player is not in fullscreen to prevent screen flickering.
+* [pause-when-minimize](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/pause-when-minimize.lua) ⭐ 37,537 | 🐛 1,160 | 🌐 C | 📅 2026-10-23 - Pauses the player video when minimizing, and unpauses it when brought up again.
+* [single-instance](https://github.com/mpv-player/mpv/issues/43#issuecomment-2496083283) ⭐ 37,537 | 🐛 1,160 | 🌐 C | 📅 2026-10-23 - Reuse the existing mpv window when opening new files rather than spawning a new window.
+* [local-language](https://github.com/422658476/MPV-EASY-Player/blob/master/portable-data/scripts/local-language.lua) ⭐ 1,451 | 🐛 1 | 🌐 Lua | 📅 2026-10-21 - Let the text displayed by osd become the language you are most familiar with, that is, language localization, such as 【volume: 100%】 becomes 【音量:100%】.
 * [SmartCopyPaste-3.0](https://github.com/Eisa01/mpv-scripts#smartcopypaste) ⭐ 844 | 🐛 56 | 🌐 Lua | 📅 2025-06-21 - Powerful copy paste features. Paste URL or local videos directly to mpv. Copy URL or currently playing video in mpv player then paste to access at a later time. Add videos to playlist simply by pasting. Much more explained in the link above.
 * [SmartCopyPaste-II-3.0](https://github.com/Eisa01/mpv-scripts#smartcopypaste_ii) ⭐ 844 | 🐛 56 | 🌐 Lua | 📅 2025-06-21 - Powerful copy paste and clipboard list features using a log file. Select, filter, and search from your clipboard list. Paste URL or local videos directly to mpv. Copy URL or currently playing video in mpv player then paste to access at a later time. Paste to access previously copied times of same video. Much more explained in the link above.
 * [webm](https://github.com/ekisu/mpv-webm) ⭐ 679 | 🐛 61 | 🌐 MoonScript | 📅 2026-10-04 - WebM converter based on MoonScript.
@@ -679,7 +679,7 @@ into popular sections, like Subtitles etc.
 
 # Streaming Tools
 
-* [jellyfin mpv shim](https://github.com/jellyfin/jellyfin-mpv-shim) ⭐ 2,510 | 🐛 221 | 🌐 Python | 📅 2026-10-22 - Jellyfin (Emby/Plex alternative) Client, based on Python.
+* [jellyfin mpv shim](https://github.com/jellyfin/jellyfin-mpv-shim) ⭐ 2,517 | 🐛 223 | 🌐 Python | 📅 2026-10-23 - Jellyfin (Emby/Plex alternative) Client, based on Python.
 * [ff2mpv](https://github.com/woodruffw/ff2mpv) ⭐ 648 | 🐛 12 | 🌐 PowerShell | 📅 2026-10-08 - A Firefox/Chrome extension for playing URLs in mpv, based on PowerShel/Shell/Python/JavaScript.
 * [Botflix/stream-cli](https://github.com/kaboussi/Botflix) ⚠️ Archived - Command-line tool that combines scrapy and webtorrent for streaming movies, based on Python/TUI.
 * [plex-mpv-shim](https://github.com/iwalton3/plex-mpv-shim) ⭐ 412 | 🐛 70 | 🌐 Python | 📅 2025-10-20 - Cast media from Plex Mobile and Web apps to MPV, based on Python.
@@ -694,23 +694,23 @@ into popular sections, like Subtitles etc.
 
 # User Configuration
 
-* [dyphire](https://github.com/dyphire/mpv-config) ⭐ 1,914 | 🐛 6 | 🌐 GLSL | 📅 2026-08-26
+* [dyphire](https://github.com/dyphire/mpv-config) ⭐ 1,915 | 🐛 6 | 🌐 GLSL | 📅 2026-08-26
 * [Zabooby](https://github.com/Zabooby/mpv-config) ⭐ 572 | 🐛 0 | 🌐 GLSL | 📅 2026-08-13
 * [noelsimbolon](https://github.com/noelsimbolon/mpv-config) ⭐ 312 | 🐛 2 | 🌐 GLSL | 📅 2026-04-30
-* [Natural-Harmonia-Gropius](https://github.com/Natural-Harmonia-Gropius/mpv_config) ⭐ 104 | 🐛 0 | 🌐 GLSL | 📅 2026-10-19
+* [Natural-Harmonia-Gropius](https://github.com/Natural-Harmonia-Gropius/mpv_config) ⭐ 104 | 🐛 0 | 🌐 GLSL | 📅 2026-10-23
 * [tuilakhanh](https://github.com/tuilakhanh/mpv-config) ⭐ 74 | 🐛 0 | 🌐 GLSL | 📅 2026-08-18
 * [zenwarr](https://github.com/zenwarr/mpv-config) ⭐ 35 | 🐛 3 | 🌐 Lua | 📅 2025-11-16
 * [lazy](https://github.com/hooke007/MPV_lazy) ⚠️ Archived
-* [qwerty12](https://github.com/qwerty12/mpv-config) ⭐ 12 | 🐛 1 | 🌐 Lua | 📅 2023-08-03
+* [qwerty12](https://github.com/qwerty12/mpv-config) ⭐ 11 | 🐛 1 | 🌐 Lua | 📅 2023-08-03
 * [DonCanjas](https://github.com/DonCanjas/mpv-dotfiles) ⭐ 10 | 🐛 1 | 🌐 Lua | 📅 2025-12-02
 * [mustaqimM](https://github.com/mustaqimM/mpv-scripts) ⭐ 8 | 🐛 2 | 🌐 Lua | 📅 2023-12-27
-* [Awan](https://github.com/Awan/cfg/tree/master/mpv/.config/mpv) ⭐ 0 | 🐛 5 | 🌐 Vim Script | 📅 2026-10-22
+* [Awan](https://github.com/Awan/cfg/tree/master/mpv/.config/mpv) ⭐ 0 | 🐛 3 | 🌐 Vim Script | 📅 2026-10-23
 * [Glow](https://glowmpv.github.io)
 
 # Social Tools
 
 * [Syncplay](https://syncplay.pl) - Synchronize playback on mpv/VLC/MPC on many computers and chat with friends. Cross-platform, based on Python.
-* [KikoPlay](https://github.com/KikoPlayProject/KikoPlay) ⭐ 2,252 | 🐛 9 | 🌐 C++ | 📅 2026-10-16 - Cross-platform [Danmu](https://en.wikipedia.org/wiki/Danmu) player, based on C++/QT.
+* [KikoPlay](https://github.com/KikoPlayProject/KikoPlay) ⭐ 2,252 | 🐛 8 | 🌐 C++ | 📅 2026-10-16 - Cross-platform [Danmu](https://en.wikipedia.org/wiki/Danmu) player, based on C++/QT.
 
 # Video Conversion
 
@@ -719,13 +719,13 @@ into popular sections, like Subtitles etc.
 
 # Shaders
 
-* [Anime4K](https://github.com/bloc97/Anime4K) ⭐ 21,549 | 🐛 119 | 🌐 Jupyter Notebook | 📅 2024-08-17 - A series of shaders designed to scale and enhance anime. Includes shaders for line sharpening, artefact removal, denoising, upscaling, and more.
+* [Anime4K](https://github.com/bloc97/Anime4K) ⭐ 21,553 | 🐛 119 | 🌐 Jupyter Notebook | 📅 2024-08-17 - A series of shaders designed to scale and enhance anime. Includes shaders for line sharpening, artefact removal, denoising, upscaling, and more.
 * [FSRCNN](https://github.com/igv/FSRCNN-TensorFlow/releases) ⭐ 505 | 🐛 0 | 🌐 Python | 📅 2021-04-12 - Prescaler based on layered convolutional networks.
 * [nnedi3 and ravu](https://github.com/bjin/mpv-prescalers/tree/master) ⭐ 455 | 🐛 5 | 📅 2024-01-24 - User shaders for prescaling.
-* [ArtCNN](https://github.com/Artoriuz/ArtCNN) ⭐ 392 | 🐛 2 | 🌐 GLSL | 📅 2026-10-22 - Luma doublers trained on Manga109.
-* [AniSD ArtCNN](https://github.com/Sirosky/Upscale-Hub/releases/tag/AniSD-ArtCNN) ⭐ 366 | 🐛 5 | 📅 2025-06-08 - AniSD ArtCNN shader for standard definition anime content.
-* [Ani4K v2 ArtCNN](https://github.com/Sirosky/Upscale-Hub/releases/tag/Ani4k-v2-ArtCNN) ⭐ 366 | 🐛 5 | 📅 2025-06-08 - Ani4K shader v2 targets modern anime, from high quality Bluray to crappy WEB releases, for upscaling to either 2K or 4K.
-* [hdr-toys](https://github.com/natural-harmonia-gropius/hdr-toys) ⭐ 194 | 🐛 17 | 🌐 GLSL | 📅 2026-10-19 - Componentized Rec.2100 to Rec.709 conversion shader.
+* [ArtCNN](https://github.com/Artoriuz/ArtCNN) ⭐ 394 | 🐛 2 | 🌐 GLSL | 📅 2026-10-22 - Luma doublers trained on Manga109.
+* [AniSD ArtCNN](https://github.com/Sirosky/Upscale-Hub/releases/tag/AniSD-ArtCNN) ⭐ 367 | 🐛 5 | 📅 2025-06-08 - AniSD ArtCNN shader for standard definition anime content.
+* [Ani4K v2 ArtCNN](https://github.com/Sirosky/Upscale-Hub/releases/tag/Ani4k-v2-ArtCNN) ⭐ 367 | 🐛 5 | 📅 2025-06-08 - Ani4K shader v2 targets modern anime, from high quality Bluray to crappy WEB releases, for upscaling to either 2K or 4K.
+* [hdr-toys](https://github.com/natural-harmonia-gropius/hdr-toys) ⭐ 194 | 🐛 17 | 🌐 GLSL | 📅 2026-10-23 - Componentized Rec.2100 to Rec.709 conversion shader.
 * [CuNNy](https://github.com/funnyplanter/CuNNy) ⭐ 170 | 🐛 4 | 🌐 GLSL | 📅 2025-08-29 - Cute and funny CNN-based upscaler optimized for anime.
 * [A-Pack](https://github.com/butterw/bShaders/tree/master/A-pack) ⭐ 112 | 🐛 3 | 🌐 HLSL | 📅 2024-01-19 - Shaders pack for quick Adjustment of (web) video: brightness/contrast curves (tooDark, tooBright, bShadows, bDim, etc.) and color (vibrance, skintones, Black\&White). Runs on integrated graphics.
 * [Noise](https://github.com/haasn/gentoo-conf/blob/xor/home/nand/.mpv/shaders/noise.glsl) ⚠️ Archived - Simplistic filter that adds a tunable amount of uniform white noise to the output.
@@ -738,7 +738,7 @@ into popular sections, like Subtitles etc.
 * [Post upscale unsharp masking](https://github.com/garamond13/unsharp_masking.glsl) ⭐ 4 | 🐛 0 | 🌐 GLSL | 📅 2022-09-28 - This is mpvs original image sharpening algorithm ported into the shader, in order to work only after upscaling is done.
 * [Unsharp mask and Gaussian blur](https://github.com/garamond13/Unsharp-mask-and-Gaussian-blur) ⭐ 2 | 🐛 0 | 🌐 GLSL | 📅 2023-07-19 - A 2 pass unsharp mask and a 2 pass gaussian blur. Similar to those in Photoshop, Image Magick, Gimp, etc.
 * [2D Image Resampling](https://github.com/garamond13/2D-Image-Resampling) ⭐ 1 | 🐛 0 | 🌐 GLSL | 📅 2025-06-03 - 2D Image Resampling is a general resampling algorithm made for experimental / testing use.
-* [NLS-Next](https://github.com/NotMithical/MPV-NLS-Next/blob/main/NLS-Next.glsl) ⭐ 0 | 🐛 0 | 🌐 GLSL | 📅 2025-12-08 - A nonlinear stretch shader and helper script for MPV, featuring bi-directional stretching and multiple tunable options.
+* [NLS-Next](https://github.com/NotMithical/MPV-NLS-Next/blob/main/NLS-Next.glsl) ⭐ 0 | 🐛 0 | 🌐 GLSL | 📅 2026-10-22 - A nonlinear stretch shader and helper script for MPV, featuring bi-directional stretching and multiple tunable options.
 * [LumaSharpenHook](https://gist.github.com/voltmtr/8b4404b4e23129b226b9e64863d3e28b) - A sharpen filter similar to using Unsharp Mask in Photoshop ported from SweetFX shader pack.
 * [SSimDownscaler, SSimSuperRes, Krig, Adaptive Sharpen, etc.](https://gist.github.com/igv) - \* SSimDownscaler: Perceptually based downscaler. SSimSuperRes: The aim of this shader is to make corrections to the image upscaled by mpv built-in scaler (removes ringing artifacts, restores original sharpness, etc). Krig: Chroma scaler that uses luma information for high quality upscaling.
 * [Film Grain v1](https://raw.githubusercontent.com/haasn/gentoo-conf/xor/home/nand/.mpv/shaders/filmgrain.glsl)\*\* and \*\*[Film Grain v2](https://raw.githubusercontent.com/haasn/gentoo-conf/xor/home/nand/.mpv/shaders/filmgrain-smooth.glsl) - Two configurable shaders for applying gaussian-weighted white noise to the image. v2 is a smoothed version of v1, which uses an extra gaussian blur pass to shift the grain frequency spectrum. Both versions can trivially be adapted to add film grain to other channels besides `LUMA` by just adding it to the list of hooks.
@@ -759,19 +759,19 @@ into popular sections, like Subtitles etc.
 
 # Video Editing Tools
 
-* [vidcutter](https://github.com/ozmartian/vidcutter) ⭐ 1,995 | 🐛 299 | 🌐 Python | 📅 2025-04-24 - Cross-platform video cutter/joiner, based on Python/QT.
+* [vidcutter](https://github.com/ozmartian/vidcutter) ⭐ 1,995 | 🐛 298 | 🌐 Python | 📅 2026-10-23 - Cross-platform video cutter/joiner, based on Python/QT.
 * [tsv\_edl.vim](https://github.com/scateu/tsv_edl.vim) ⭐ 103 | 🐛 1 | 🌐 Python | 📅 2026-09-07 - Linux video editing with vim/spreadsheet/sed/python.
 
 # Image Viewer
 
-* [qimgv](https://github.com/easymodo/qimgv) ⭐ 3,157 | 🐛 298 | 🌐 C++ | 📅 2026-01-19 - Cross-platform, based on C++/QT.
+* [qimgv](https://github.com/easymodo/qimgv) ⭐ 3,157 | 🐛 299 | 🌐 C++ | 📅 2026-01-19 - Cross-platform, based on C++/QT.
 
 # Launcher
 
-* <https://github.com/mpv-player/mpv/blob/master/TOOLS/umpv> ⭐ 37,525 | 🐛 1,167 | 🌐 C | 📅 2026-10-22
-* <https://github.com/davatorium/rofi> ⭐ 16,485 | 🐛 114 | 🌐 C | 📅 2026-10-19
-* <https://github.com/Flow-Launcher/Flow.Launcher> ⭐ 15,851 | 🐛 306 | 🌐 C# | 📅 2026-10-21
-* <https://github.com/ikas-mc/ContextMenuForWindows11> ⭐ 2,920 | 🐛 22 | 🌐 C# | 📅 2026-10-21
+* <https://github.com/mpv-player/mpv/blob/master/TOOLS/umpv> ⭐ 37,537 | 🐛 1,160 | 🌐 C | 📅 2026-10-23
+* <https://github.com/davatorium/rofi> ⭐ 16,487 | 🐛 114 | 🌐 C | 📅 2026-10-19
+* <https://github.com/Flow-Launcher/Flow.Launcher> ⭐ 15,855 | 🐛 306 | 🌐 C# | 📅 2026-10-21
+* <https://github.com/ikas-mc/ContextMenuForWindows11> ⭐ 2,921 | 🐛 22 | 🌐 C# | 📅 2026-10-21
 * <https://github.com/stax76/OpenWithPlusPlus> ⭐ 440 | 🐛 10 | 🌐 Visual Basic .NET | 📅 2025-11-26
 * <https://github.com/stax76/Flow.Launcher.Plugin.Favorites> ⭐ 75 | 🐛 9 | 🌐 C# | 📅 2025-11-26
 * <https://www.google.com/search?q=external+application+launcher>
@@ -791,8 +791,8 @@ into popular sections, like Subtitles etc.
 
 # Building
 
-* [Compiling for Windows](https://github.com/mpv-player/mpv/blob/master/DOCS/compile-windows.md) ⭐ 37,525 | 🐛 1,167 | 🌐 C | 📅 2026-10-22
-* [Building mpv and libmpv using wsl2 and Ubuntu](https://github.com/mpvnet-player/mpv.net/wiki/Building-mpv-and-libmpv-using-wsl2-and-Ubuntu) ⭐ 5,495 | 🐛 156 | 🌐 C# | 📅 2026-02-09
+* [Compiling for Windows](https://github.com/mpv-player/mpv/blob/master/DOCS/compile-windows.md) ⭐ 37,537 | 🐛 1,160 | 🌐 C | 📅 2026-10-23
+* [Building mpv and libmpv using wsl2 and Ubuntu](https://github.com/mpvnet-player/mpv.net/wiki/Building-mpv-and-libmpv-using-wsl2-and-Ubuntu) ⭐ 5,497 | 🐛 156 | 🌐 C# | 📅 2026-02-09
 * [Media Auto Build Suite (MABS)](https://github.com/m-ab-s/media-autobuild_suite) ⭐ 1,832 | 🐛 198 | 🌐 Shell | 📅 2026-10-21
 * [Helper scripts to compile mpv on Linux](https://github.com/mpv-player/mpv-build) ⭐ 494 | 🐛 9 | 🌐 Shell | 📅 2025-11-02
 * [crosscompile-mingw-tedious](https://github.com/qyot27/mpv/blob/extra-new/DOCS/crosscompile-mingw-tedious.txt) ⭐ 2 | 🐛 3 | 🌐 C | 📅 2025-04-19
@@ -816,10 +816,10 @@ into popular sections, like Subtitles etc.
 # Other Tools
 
 * [Memento](https://github.com/ripose-jp/Memento) ⭐ 1,495 | 🐛 29 | 🌐 C++ | 📅 2026-08-24 - Cross-platform video player for studying Japanese, based on C++/QT.
-* [gnome-shell-extension-caffeine](https://github.com/eonpatapon/gnome-shell-extension-caffeine) ⭐ 798 | 🐛 47 | 🌐 JavaScript | 📅 2026-10-08 - Prevent the display from turning off (Gnome doesn't support the idle-inhibit protocol on Wayland) and disable the 'night light' when a mpv window is in focus.
+* [gnome-shell-extension-caffeine](https://github.com/eonpatapon/gnome-shell-extension-caffeine) ⭐ 800 | 🐛 47 | 🌐 JavaScript | 📅 2026-10-08 - Prevent the display from turning off (Gnome doesn't support the idle-inhibit protocol on Wayland) and disable the 'night light' when a mpv window is in focus.
 * [install](https://github.com/rossy/mpv-install) ⭐ 472 | 🐛 7 | 🌐 Batchfile | 📅 2021-09-03 - Sets up file associations for mpv on Windows.
 * [blitzloop](https://github.com/marcan/blitzloop) ⭐ 230 | 🐛 14 | 🌐 Python | 📅 2021-05-02 - Linux karaoke software, based on Python/OpenGL.
-* [mpvQC](https://github.com/mpvqc/mpvQC) ⭐ 79 | 🐛 5 | 🌐 Python | 📅 2026-10-18 - Cross-platform application for quality control of videos, based on Python/QT.
+* [mpvQC](https://github.com/mpvqc/mpvQC) ⭐ 79 | 🐛 6 | 🌐 Python | 📅 2026-10-23 - Cross-platform application for quality control of videos, based on Python/QT.
 * [vidify](https://vidify.org) - Cross-platform app that detects playing songs on your device and plays their music videos anywhere, based on Python.
 * [Karaoke Mugen](https://karaokes.moe/de/) - Cross-platform karaoke management app, based on JavaScript/node.js/Web.
 
@@ -831,4 +831,4 @@ A list of my other projects can be found here:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
